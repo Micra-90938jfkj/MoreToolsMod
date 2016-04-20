@@ -1,0 +1,68 @@
+[16:46:25] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[16:46:25] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[16:46:39] [Server thread/INFO]: Loading properties
+[16:46:39] [Server thread/INFO]: Default game type: SURVIVAL
+[16:46:39] [Server thread/INFO]: Generating keypair
+[16:46:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:46:40] [Server thread/WARN]: Failed to load user banlist: 
+java.io.FileNotFoundException: banned-players.json (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.8.0_11]
+	at java.io.FileInputStream.<init>(FileInputStream.java:131) ~[?:1.8.0_11]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[guava-17.0.jar:?]
+	at net.minecraft.server.management.UserList.func_152679_g(UserList.java:195) ~[UserList.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.func_152620_y(DedicatedPlayerList.java:124) [DedicatedPlayerList.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(DedicatedPlayerList.java:31) [DedicatedPlayerList.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.startServer(DedicatedServer.java:214) [DedicatedServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:752) [MinecraftServer$2.class:?]
+[16:46:40] [Server thread/WARN]: Failed to load ip banlist: 
+java.io.FileNotFoundException: banned-ips.json (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.8.0_11]
+	at java.io.FileInputStream.<init>(FileInputStream.java:131) ~[?:1.8.0_11]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[guava-17.0.jar:?]
+	at net.minecraft.server.management.UserList.func_152679_g(UserList.java:195) ~[UserList.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.func_152619_x(DedicatedPlayerList.java:112) [DedicatedPlayerList.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(DedicatedPlayerList.java:33) [DedicatedPlayerList.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.startServer(DedicatedServer.java:214) [DedicatedServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:752) [MinecraftServer$2.class:?]
+[16:46:40] [Server thread/WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.8.0_11]
+	at java.io.FileInputStream.<init>(FileInputStream.java:131) ~[?:1.8.0_11]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[guava-17.0.jar:?]
+	at net.minecraft.server.management.UserList.func_152679_g(UserList.java:195) ~[UserList.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.loadOpsList(DedicatedPlayerList.java:136) [DedicatedPlayerList.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(DedicatedPlayerList.java:35) [DedicatedPlayerList.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.startServer(DedicatedServer.java:214) [DedicatedServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:752) [MinecraftServer$2.class:?]
+[16:46:40] [Server thread/WARN]: Failed to load white-list: 
+java.io.FileNotFoundException: whitelist.json (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.8.0_11]
+	at java.io.FileInputStream.<init>(FileInputStream.java:131) ~[?:1.8.0_11]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[guava-17.0.jar:?]
+	at net.minecraft.server.management.UserList.func_152679_g(UserList.java:195) ~[UserList.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.readWhiteList(DedicatedPlayerList.java:160) [DedicatedPlayerList.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(DedicatedPlayerList.java:36) [DedicatedPlayerList.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.startServer(DedicatedServer.java:214) [DedicatedServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:752) [MinecraftServer$2.class:?]
+[16:46:40] [Server thread/INFO]: Preparing level "world"
+[16:46:41] [Server thread/INFO]: Preparing start region for level 0
+[16:46:42] [Server thread/INFO]: Preparing spawn area: 7%
+[16:46:43] [Server thread/INFO]: Preparing spawn area: 15%
+[16:46:44] [Server thread/INFO]: Preparing spawn area: 24%
+[16:46:46] [Server thread/INFO]: Preparing spawn area: 31%
+[16:46:47] [Server thread/INFO]: Preparing spawn area: 39%
+[16:46:48] [Server thread/INFO]: Preparing spawn area: 45%
+[16:46:49] [Server thread/INFO]: Preparing spawn area: 50%
+[16:46:50] [Server thread/INFO]: Preparing spawn area: 55%
+[16:46:51] [Server thread/INFO]: Preparing spawn area: 60%
+[16:46:52] [Server thread/INFO]: Preparing spawn area: 65%
+[16:46:53] [Server thread/INFO]: Preparing spawn area: 70%
+[16:46:54] [Server thread/INFO]: Preparing spawn area: 76%
+[16:46:55] [Server thread/INFO]: Preparing spawn area: 82%
+[16:46:56] [Server thread/INFO]: Preparing spawn area: 88%
+[16:46:57] [Server thread/INFO]: Preparing spawn area: 94%
+[16:46:57] [Server thread/INFO]: Done (17.290s)! For help, type "help" or "?"

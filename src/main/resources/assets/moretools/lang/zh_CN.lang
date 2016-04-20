@@ -1,0 +1,14 @@
+# English language file of MoreTools
+
+tile.blockWerniumOre.name=微元素矿
+
+item.itemWerniumIngot.name=微元素锭
+item.itemWerniumedDiamond.name=微钻石
+item.itemWerniumedDiamondSword.name=微钻石剑
+item.itemWerniumedDiamondPickaxe.name=微钻石镐
+item.itemWerniumedDiamondAxe.name=微钻石斧
+item.itemWerniumedDiamondHoe.name=微钻石锄
+item.itemWerniumedDiamondShovel.name=微钻石铲
+item.itemWerniumedDiamondWand.name=微钻石魔棒
+
+itemGroup.MoreTools=更多工具

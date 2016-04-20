@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MoreTools",
+  "name": "More Tools",
+  "description": "Makes your minecraft more tools.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Micra"],
+  "credits": "The Forge Team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,14 @@
+# English language file of MoreTools
+
+tile.blockWerniumOre.name=Wernium Ore
+
+item.itemWerniumIngot.name=Wernium Ingot
+item.itemWerniumedDiamond.name=Werniumed Diamond
+item.itemWerniumedDiamondSword.name=Werniumed Diamond Sword
+item.itemWerniumedDiamondPickaxe.name=Werniumed Diamond Pickaxe
+item.itemWerniumedDiamondHoe.name=Werniumed Diamond Hoe
+item.itemWerniumedDiamondAxe.name=Werniumed Diamond Axe
+item.itemWerniumedDiamondShovel.name=Werniumed Diamond Shovel
+item.itemWerniumedDiamondWand.name=Werniumed Diamond Wand
+
+itemGroup.MoreTools=More Tools
