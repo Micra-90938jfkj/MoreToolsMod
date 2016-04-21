@@ -1,0 +1,107 @@
+---- Minecraft Crash Report ----
+// Would you like a cupcake?
+
+Time: 16-4-21 下午7:11
+Description: Unexpected error
+
+java.lang.NullPointerException: Unexpected error
+	at net.minecraft.client.audio.SoundManager$SoundSystemStarterThread.playing(SoundManager.java:547)
+	at net.minecraft.client.audio.SoundManager.updateAllSounds(SoundManager.java:245)
+	at net.minecraft.client.audio.SoundHandler.update(SoundHandler.java:224)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:2104)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1039)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:962)
+	at net.minecraft.client.main.Main.main(Main.java:164)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(Unknown Source)
+	at GradleStart.main(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at net.minecraft.client.audio.SoundManager$SoundSystemStarterThread.playing(SoundManager.java:547)
+	at net.minecraft.client.audio.SoundManager.updateAllSounds(SoundManager.java:245)
+	at net.minecraft.client.audio.SoundHandler.update(SoundHandler.java:224)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityClientPlayerMP['Player551'/101, l='MpServer', x=630.79, y=5.62, z=70.68]]
+	Chunk stats: MultiplayerChunkCache: 289, 289
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (647,4,110), Chunk: (at 7,0,14 in 40,6; contains blocks 640,0,96 to 655,255,111), Region: (1,0; contains chunks 32,0 to 63,31, blocks 512,0,0 to 1023,255,511)
+	Level time: 115755 game time, 9946 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 50 total; [EntitySheep['羊'/1, l='MpServer', x=582.19, y=4.00, z=6.19], EntityCow['牛'/2, l='MpServer', x=592.94, y=4.00, z=16.03], EntitySheep['羊'/3, l='MpServer', x=582.84, y=4.00, z=21.88], EntityVillager['村民'/4, l='MpServer', x=602.25, y=4.00, z=101.66], EntityCow['牛'/5, l='MpServer', x=597.84, y=4.00, z=-4.88], EntityCow['牛'/6, l='MpServer', x=604.22, y=4.00, z=-7.22], EntityCow['牛'/7, l='MpServer', x=594.19, y=4.00, z=27.91], EntityVillager['村民'/8, l='MpServer', x=605.34, y=5.00, z=105.63], EntityVillager['村民'/9, l='MpServer', x=596.94, y=5.00, z=122.63], EntityVillager['村民'/10, l='MpServer', x=592.53, y=4.00, z=120.31], EntityVillager['村民'/11, l='MpServer', x=613.22, y=5.00, z=119.50], EntityClientPlayerMP['Player551'/101, l='MpServer', x=630.79, y=5.62, z=70.68], EntityVillager['村民'/12, l='MpServer', x=595.88, y=6.00, z=123.53], EntityCow['牛'/14, l='MpServer', x=610.78, y=4.00, z=3.66], EntityCow['牛'/15, l='MpServer', x=616.78, y=4.00, z=24.84], EntitySheep['羊'/16, l='MpServer', x=604.19, y=4.00, z=41.63], EntityCow['牛'/17, l='MpServer', x=619.75, y=4.00, z=41.38], EntityVillager['村民'/18, l='MpServer', x=619.56, y=4.00, z=104.75], EntityVillager['村民'/19, l='MpServer', x=612.47, y=4.15, z=117.69], EntityVillager['村民'/20, l='MpServer', x=625.22, y=4.00, z=117.41], EntityVillager['村民'/21, l='MpServer', x=608.84, y=4.00, z=122.47], EntityVillager['村民'/22, l='MpServer', x=619.44, y=3.00, z=110.13], EntityVillager['村民'/23, l='MpServer', x=616.25, y=5.00, z=122.50], EntityVillager['村民'/24, l='MpServer', x=616.25, y=4.00, z=125.50], EntityVillager['村民'/25, l='MpServer', x=609.44, y=5.00, z=126.13], EntitySheep['羊'/26, l='MpServer', x=637.25, y=4.00, z=2.19], EntityChicken['鸡'/27, l='MpServer', x=636.41, y=4.00, z=22.41], EntityItem['item.item.egg'/28, l='MpServer', x=637.09, y=4.13, z=19.25], EntityVillager['村民'/29, l='MpServer', x=626.34, y=4.00, z=108.69], EntityCow['牛'/32, l='MpServer', x=646.31, y=4.00, z=-6.38], EntitySheep['羊'/33, l='MpServer', x=654.91, y=4.00, z=26.09], EntityChicken['鸡'/34, l='MpServer', x=645.23, y=4.00, z=42.02], EntityCow['牛'/35, l='MpServer', x=646.88, y=4.00, z=50.13], EntityChicken['鸡'/36, l='MpServer', x=652.44, y=4.00, z=57.56], EntitySheep['羊'/37, l='MpServer', x=653.17, y=4.00, z=72.18], EntityChicken['鸡'/38, l='MpServer', x=645.47, y=4.00, z=127.47], EntitySheep['羊'/41, l='MpServer', x=666.03, y=4.00, z=73.97], EntityChicken['鸡'/42, l='MpServer', x=659.44, y=4.00, z=91.53], EntityCow['牛'/46, l='MpServer', x=687.09, y=4.00, z=8.91], EntityCow['牛'/48, l='MpServer', x=706.22, y=4.00, z=6.78], EntityCow['牛'/49, l='MpServer', x=700.03, y=4.00, z=7.03], EntityChicken['鸡'/50, l='MpServer', x=695.53, y=4.00, z=28.53], EntityChicken['鸡'/51, l='MpServer', x=695.34, y=4.00, z=54.44], EntityChicken['鸡'/52, l='MpServer', x=699.44, y=4.00, z=49.53], EntityChicken['鸡'/53, l='MpServer', x=699.63, y=4.00, z=78.47], EntityChicken['鸡'/54, l='MpServer', x=689.56, y=4.00, z=97.47], EntitySheep['羊'/57, l='MpServer', x=703.16, y=4.00, z=-10.22], EntityChicken['鸡'/58, l='MpServer', x=710.41, y=4.00, z=5.56], EntityChicken['鸡'/60, l='MpServer', x=707.53, y=4.00, z=53.47], EntityPig['猪'/62, l='MpServer', x=707.94, y=4.00, z=68.09]]
+	Retry entities: 0 total; []
+	Server brand: fml,forge
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:415)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2566)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at net.minecraft.client.main.Main.main(Main.java:164)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(Unknown Source)
+	at GradleStart.main(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_77, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 915631680 bytes (873 MB) / 1046937600 bytes (998 MB) up to 1046937600 bytes (998 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1558 4 mods loaded, 4 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAA	FML{7.10.99.99} [Forge Mod Loader] (forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar) 
+	UCHIJAAAA	Forge{10.13.4.1558} [Minecraft Forge] (forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar) 
+	UCHIJAAAA	MoreTools{beta1} [More Tools] (MoreTools Project) 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.5.0 NVIDIA 353.62' Renderer: 'GeForce GT 430/PCIe/SSE2'
+	Launched Version: 1.7.10
+	LWJGL: 2.9.1
+	OpenGL: GeForce GT 430/PCIe/SSE2 GL version 4.5.0 NVIDIA 353.62, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Anisotropic filtering is supported and maximum anisotropy is 16.
+Shaders are available because OpenGL 2.1 is supported.
+
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: []
+	Current Language: 简体中文 (中国)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Anisotropic Filtering: Off (1)

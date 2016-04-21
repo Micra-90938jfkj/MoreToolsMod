@@ -1,6 +1,7 @@
 # English language file of MoreTools
 
 tile.blockWerniumOre.name=Wernium Ore
+tile.blockChromiumOre.name=Chromium Ore
 
 item.itemWerniumIngot.name=Wernium Ingot
 item.itemWerniumedDiamond.name=Werniumed Diamond

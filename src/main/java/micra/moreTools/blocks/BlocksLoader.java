@@ -11,9 +11,11 @@ import net.minecraft.block.Block;
 public class BlocksLoader {
 
     public static BlockWerniumOre blockWerniumOre = new BlockWerniumOre();
+    public static BlockChromiumOre blockChromiumOre = new BlockChromiumOre();
 
     public BlocksLoader(){
-        register(blockWerniumOre, "Copper_Ore");
+        register(blockWerniumOre, "Wernium_Ore");
+        register(blockChromiumOre, "Chrmium_Ore");
     }
 
     private void register(Block block, String name){

@@ -7,6 +7,7 @@ import micra.moreTools.blocks.BlocksLoader;
  */
 public class BlockTextureLoader {
     public BlockTextureLoader(){
-        BlocksLoader.LoadTextures(BlocksLoader.blockWerniumOre, "moretools:copper_ore");
+        BlocksLoader.LoadTextures(BlocksLoader.blockWerniumOre, "moretools:wernium_ore");
+        BlocksLoader.LoadTextures(BlocksLoader.blockChromiumOre, "moretools:chromium_ore");
     }
 }

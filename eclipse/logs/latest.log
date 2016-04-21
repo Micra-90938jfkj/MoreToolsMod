@@ -1,27 +1,41 @@
-[21:18:30] [main/INFO]: Setting user: Player38
-[21:18:31] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:18:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
-[21:18:46] [Sound Library Loader/INFO]: Sound engine started
-[21:18:49] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[21:18:49] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[21:18:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
-[21:18:50] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:18:50] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:18:51] [Sound Library Loader/INFO]: Sound engine started
-[21:18:57] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[21:18:57] [Server thread/INFO]: Generating keypair
-[21:18:57] [Server thread/INFO]: Preparing start region for level 0
-[21:18:58] [Server thread/INFO]: Changing view distance to 8, from 10
-[21:18:59] [Server thread/INFO]: Player38[local:E:9d2b7190] logged in with entity id 107 at (579.6010013418705, 4.0, 69.32370511051091)
-[21:18:59] [Server thread/INFO]: Player38 加入了游戏
-[21:21:13] [Server thread/INFO]: Saving and pausing game...
-[21:21:13] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[21:21:13] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[21:21:13] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[21:21:14] [Server thread/INFO]: Stopping server
-[21:21:14] [Server thread/INFO]: Saving players
-[21:21:14] [Server thread/INFO]: Saving worlds
-[21:21:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[21:21:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[21:21:14] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[21:21:15] [Client thread/INFO]: Stopping!
+[19:12:32] [main/INFO]: Setting user: Player517
+[19:12:34] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:12:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
+[19:12:45] [Sound Library Loader/INFO]: Sound engine started
+[19:12:47] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:12:47] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:12:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
+[19:12:48] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:12:48] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:12:49] [Sound Library Loader/INFO]: Sound engine started
+[19:13:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:13:08] [Server thread/INFO]: Generating keypair
+[19:13:08] [Server thread/INFO]: Preparing start region for level 0
+[19:13:09] [Server thread/INFO]: Changing view distance to 8, from 10
+[19:13:09] [Server thread/INFO]: Player517[local:E:5ccadf3e] logged in with entity id 99 at (630.7856046014373, 4.0, 70.67617319018447)
+[19:13:09] [Server thread/INFO]: Player517 加入了游戏
+[19:15:12] [Server thread/INFO]: [Player517: 将时间设为 0]
+[19:15:12] [Client thread/INFO]: [CHAT] 将时间设为 0
+[19:26:12] [Server thread/INFO]: [Player517: 将时间设为 12]
+[19:26:12] [Client thread/INFO]: [CHAT] 将时间设为 12
+[19:34:00] [Server thread/INFO]: [Player517: 更换到无天气]
+[19:34:00] [Client thread/INFO]: [CHAT] 更换到无天气
+[19:36:38] [Server thread/INFO]: [Player517: 更换到无天气]
+[19:36:38] [Client thread/INFO]: [CHAT] 更换到无天气
+[19:36:49] [Server thread/INFO]: [Player517: 将时间设为 12]
+[19:36:49] [Client thread/INFO]: [CHAT] 将时间设为 12
+[19:45:51] [Server thread/INFO]: Player517 刚刚获得了 [打开物品栏] 成就！
+[19:45:51] [Client thread/INFO]: [CHAT] Player517 刚刚获得了 [打开物品栏] 成就！
+[19:45:55] [Server thread/INFO]: [Player517: 清除了Player517的物品栏，删除了1989个物品]
+[19:45:55] [Client thread/INFO]: [CHAT] 清除了Player517的物品栏，删除了1989个物品
+[19:46:39] [Server thread/INFO]: Saving and pausing game...
+[19:46:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:46:40] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:46:40] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:46:40] [Server thread/INFO]: Stopping server
+[19:46:40] [Server thread/INFO]: Saving players
+[19:46:40] [Server thread/INFO]: Saving worlds
+[19:46:40] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:46:40] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:46:40] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:46:41] [Client thread/INFO]: Stopping!

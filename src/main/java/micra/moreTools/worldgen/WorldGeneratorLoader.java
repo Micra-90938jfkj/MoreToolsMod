@@ -14,17 +14,18 @@ import java.util.Random;
  */
 public class WorldGeneratorLoader {
 
-    public static IWorldGenerator copperOreGenerator;
+    public static IWorldGenerator werniumOreGenerator;
+    public static IWorldGenerator chromiumOreGenerator;
 
     public WorldGeneratorLoader(){
-        copperOreGenerator = new IWorldGenerator() {
+        werniumOreGenerator = new IWorldGenerator() {
 
             WorldGenMinable GeneratorCore = new WorldGenMinable(BlocksLoader.blockWerniumOre, 3);
 
             @Override
             public void generate(Random random, int chunkX, int chunkZ, World world, IChunkProvider chunkGenerator, IChunkProvider chunkProvider) {
                 if(world.provider.dimensionId == 0){
-                    for(int i=1;i<3;i++){
+                    for(int i=1;i<25;i++){
                         int posX = chunkX * 16 + random.nextInt(16);
                         int posY = random.nextInt(10)+10;
                         int posZ = chunkZ * 16 + random.nextInt(16);
@@ -35,6 +36,23 @@ public class WorldGeneratorLoader {
                 }
             }
         };
-        GameRegistry.registerWorldGenerator(copperOreGenerator, 10);
+        chromiumOreGenerator = new IWorldGenerator() {
+
+            WorldGenMinable GeneratorCore = new WorldGenMinable(BlocksLoader.blockChromiumOre, 5);
+
+            @Override
+            public void generate(Random random, int chunkX, int chunkZ, World world, IChunkProvider chunkGenerator, IChunkProvider chunkProvider) {
+                if(world.provider.dimensionId == 0){
+                    for(int i=1;i<60;i++){
+                        int posX = chunkX * 16 + random.nextInt(16);
+                        int posY = random.nextInt(28)+12;
+                        int posZ = chunkZ * 16 + random.nextInt(16);
+                        GeneratorCore.generate(world, random, posX, posY, posZ);
+                    }
+                }
+            }
+        };
+        GameRegistry.registerWorldGenerator(werniumOreGenerator, 0);
+        GameRegistry.registerWorldGenerator(chromiumOreGenerator, 10);
     }
 }
