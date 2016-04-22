@@ -13,6 +13,8 @@ public class ItemsLoader {
 
     public static Item.ToolMaterial WERNIUMEDDIAMOND = EnumHelper.addToolMaterial("WERNIUMEDDIAMOND", 4, 6000, 10.5F, 17.5F, 20);
 
+    public static ItemChromium itemChromium = new ItemChromium();
+    public static ItemStainlessSteelIngot itemStainlessSteelIngot = new ItemStainlessSteelIngot();
     public static ItemWerniumIngot itemWerniumIngot = new ItemWerniumIngot();
     public static ItemWerniumedDiamond itemWerniumedDiamond = new ItemWerniumedDiamond();
     public static ItemWerniumedDiamondSword itemWerniumedDiamondSword = new ItemWerniumedDiamondSword(WERNIUMEDDIAMOND);
@@ -31,6 +33,8 @@ public class ItemsLoader {
     }
 
     private static void registerAll(){
+        register(itemChromium, "Chromium");
+        register(itemStainlessSteelIngot, "StainlessSteel");
         register(itemWerniumIngot, "Werniumed_Ingot");
         register(itemWerniumedDiamond, "Werniumed_Diamond");
         register(itemWerniumedDiamondSword, "Werniumed_Diamond_Sword");

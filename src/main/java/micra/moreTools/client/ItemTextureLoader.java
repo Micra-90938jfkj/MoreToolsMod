@@ -11,6 +11,8 @@ public class ItemTextureLoader {
     }
 
     private static void loadAll(){
+        ItemsLoader.loadTextures(ItemsLoader.itemChromium, "moretools:chromium");
+        ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelIngot, "moretools:stainless_steel_ingot");
         ItemsLoader.loadTextures(ItemsLoader.itemWerniumIngot, "moretools:wernium_ingot");
         ItemsLoader.loadTextures(ItemsLoader.itemWerniumedDiamond, "moretools:werniumed_diamond");
         ItemsLoader.loadTextures(ItemsLoader.itemWerniumedDiamondSword, "moretools:werniumed_diamond_sword");

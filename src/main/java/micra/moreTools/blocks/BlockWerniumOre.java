@@ -13,6 +13,7 @@ public class BlockWerniumOre extends BlockOre {
         this.setHardness(1.0F);
         this.setBlockName("blockWerniumOre");
         this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setLightLevel(0.5F);
         LanguageRegistry.addName(this, "Wernium Ore");
     }
 }

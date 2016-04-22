@@ -4,7 +4,6 @@ import micra.moreTools.blocks.BlocksLoader;
 import micra.moreTools.items.ItemsLoader;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.init.Items;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
 /**
@@ -31,9 +30,12 @@ public class CraftingLoader {
                 new Object[]{" W ", " S ", " S ", 'W', ItemsLoader.itemWerniumedDiamond, 'S', Items.stick});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemWerniumedDiamondWand),
                 new Object[]{"WWW", "WWW", " S ", 'W', ItemsLoader.itemWerniumedDiamond, 'S', Items.stick});
+        GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemStainlessSteelIngot, 3),
+                new Object[]{"CCC", "III", "CCC", 'C', ItemsLoader.itemChromium, 'I', Items.iron_ingot});
     }
 
     private static void registerSmelting(){
-        GameRegistry.addSmelting(BlocksLoader.blockWerniumOre, new ItemStack(ItemsLoader.itemWerniumIngot), 0.1F);
+        GameRegistry.addSmelting(BlocksLoader.blockWerniumOre, new ItemStack(ItemsLoader.itemWerniumIngot), 2F);
+        GameRegistry.addSmelting(BlocksLoader.blockChromiumOre, new ItemStack(ItemsLoader.itemChromium), 0.3F);
     }
 }

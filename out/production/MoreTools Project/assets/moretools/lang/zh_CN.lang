@@ -1,8 +1,10 @@
-# English language file of MoreTools
+# Chinese language file of MoreTools
 
 tile.blockWerniumOre.name=微元素矿
 tile.blockChromiumOre.name=铬矿
 
+item.itemChromium.name=铬
+item.itemStainlessSteelIngot.name=不锈钢锭
 item.itemWerniumIngot.name=微元素锭
 item.itemWerniumedDiamond.name=微钻石
 item.itemWerniumedDiamondSword.name=微钻石剑

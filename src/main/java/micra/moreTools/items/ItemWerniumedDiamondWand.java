@@ -33,13 +33,14 @@ public class ItemWerniumedDiamondWand extends Item {
             if (world.getBlock(x, y - i, z).equals(Blocks.bedrock)) {
                 break;
             }
+            if (FMLCommonHandler.instance().getSide() == Side.CLIENT) {
+                playBreakBlockSound(x, y, z, i, world);
+            }
             if (!(world.getBlock(x, y - i, z).getMaterial().equals(Material.lava)) && !(world.getBlock(x, y - i, z).getMaterial().equals(Material.water))) {
                 player.inventory.addItemStackToInventory(new ItemStack(world.getBlock(x, y - i, z)));
                 world.setBlockToAir(x, y - i, z);
             }
-            if (FMLCommonHandler.instance().getSide() == Side.CLIENT) {
-                playBreakBlockSound(x, y, z, i, world);
-            }
+
             this.setDamage(stack, stack.getItemDamage() - 1);
             i++;
         }
