@@ -1,31 +1,37 @@
-[17:52:27] [main/INFO]: Setting user: Player623
-[17:52:28] [Client thread/INFO]: LWJGL Version: 2.9.1
-[17:52:38] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
-[17:52:39] [Sound Library Loader/INFO]: Sound engine started
-[17:52:42] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[17:52:42] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[17:52:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
-[17:52:42] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[17:52:42] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[17:52:43] [Sound Library Loader/INFO]: Sound engine started
-[17:52:55] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[17:52:55] [Server thread/INFO]: Generating keypair
-[17:52:55] [Server thread/INFO]: Preparing start region for level 0
-[17:52:56] [Server thread/INFO]: Changing view distance to 8, from 10
-[17:52:57] [Server thread/INFO]: Player623[local:E:9330f939] logged in with entity id 107 at (754.0786829195167, 4.0, 132.995794416921)
-[17:52:57] [Server thread/INFO]: Player623 加入了游戏
-[17:53:25] [Server thread/INFO]: Player623 刚刚获得了 [打开物品栏] 成就！
-[17:53:25] [Client thread/INFO]: [CHAT] Player623 刚刚获得了 [打开物品栏] 成就！
-[17:56:01] [Server thread/INFO]: [Player623: 清除了Player623的物品栏，删除了1991个物品]
-[17:56:01] [Client thread/INFO]: [CHAT] 清除了Player623的物品栏，删除了1991个物品
-[17:56:02] [Server thread/INFO]: Saving and pausing game...
-[17:56:02] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:56:02] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:56:02] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:56:03] [Server thread/INFO]: Stopping server
-[17:56:03] [Server thread/INFO]: Saving players
-[17:56:03] [Server thread/INFO]: Saving worlds
-[17:56:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:56:03] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:56:03] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:56:03] [Client thread/INFO]: Stopping!
+[21:52:53] [main/INFO]: Setting user: Player976
+[21:52:55] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:53:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
+[21:53:07] [Sound Library Loader/INFO]: Sound engine started
+[21:53:08] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[21:53:08] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[21:53:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
+[21:53:09] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:53:09] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:53:09] [Sound Library Loader/INFO]: Sound engine started
+[21:53:16] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:53:16] [Server thread/INFO]: Generating keypair
+[21:53:16] [Server thread/INFO]: Preparing start region for level 0
+[21:53:17] [Server thread/INFO]: Changing view distance to 8, from 10
+[21:53:18] [Server thread/INFO]: Player976[local:E:124001a2] logged in with entity id 267 at (580.5391252333537, 4.0, -560.011709522442)
+[21:53:18] [Server thread/INFO]: Player976 加入了游戏
+[21:53:20] [Server thread/INFO]: Saving and pausing game...
+[21:53:20] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[21:53:20] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[21:53:20] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[21:56:19] [Server thread/INFO]: Player976 刚刚获得了 [打开物品栏] 成就！
+[21:56:19] [Client thread/INFO]: [CHAT] Player976 刚刚获得了 [打开物品栏] 成就！
+[21:56:20] [Server thread/INFO]: Saving and pausing game...
+[21:56:20] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[21:56:20] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[21:56:20] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[21:56:23] [Server thread/INFO]: Saving and pausing game...
+[21:56:23] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[21:56:23] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[21:56:23] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[21:57:23] [Client thread/INFO]: Stopping!
+[21:57:23] [Server thread/INFO]: Stopping server
+[21:57:23] [Server thread/INFO]: Saving players
+[21:57:23] [Server thread/INFO]: Saving worlds
+[21:57:23] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[21:57:23] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[21:57:23] [Server thread/INFO]: Saving chunks for level '新的世界'/The End

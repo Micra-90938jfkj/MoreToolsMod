@@ -12,9 +12,15 @@ import net.minecraftforge.common.util.EnumHelper;
 public class ItemsLoader {
 
     public static Item.ToolMaterial WERNIUMEDDIAMOND = EnumHelper.addToolMaterial("WERNIUMEDDIAMOND", 4, 6000, 10.5F, 17.5F, 20);
+    public static Item.ToolMaterial STAINLESSSTEEL = EnumHelper.addToolMaterial("STAINLESSSTEEL", 2, 600, 6.0F, 2.0F, 14);
 
     public static ItemChromium itemChromium = new ItemChromium();
     public static ItemStainlessSteelIngot itemStainlessSteelIngot = new ItemStainlessSteelIngot();
+    public static ItemStainlessSteelAxe itemStainlessSteelAxe = new ItemStainlessSteelAxe(STAINLESSSTEEL);
+    public static ItemStainlessSteelHoe itemStainlessSteelHoe = new ItemStainlessSteelHoe(STAINLESSSTEEL);
+    public static ItemStainlessSteelPickaxe itemStainlessSteelPickaxe = new ItemStainlessSteelPickaxe(STAINLESSSTEEL);
+    public static ItemStainlessSteelShovel itemStainlessSteelShovel = new ItemStainlessSteelShovel(STAINLESSSTEEL);
+    public static ItemStainlessSteelSword itemStainlessSteelSword = new ItemStainlessSteelSword(STAINLESSSTEEL);
     public static ItemWerniumIngot itemWerniumIngot = new ItemWerniumIngot();
     public static ItemWerniumedDiamond itemWerniumedDiamond = new ItemWerniumedDiamond();
     public static ItemWerniumedDiamondSword itemWerniumedDiamondSword = new ItemWerniumedDiamondSword(WERNIUMEDDIAMOND);
@@ -34,7 +40,12 @@ public class ItemsLoader {
 
     private static void registerAll(){
         register(itemChromium, "Chromium");
-        register(itemStainlessSteelIngot, "StainlessSteel");
+        register(itemStainlessSteelIngot, "Stainless_Steel_Ingot");
+        register(itemStainlessSteelAxe, "Stainless_Steel_Axe");
+        register(itemStainlessSteelHoe, "Stainless_Steel_Hoe");
+        register(itemStainlessSteelPickaxe, "Stainless_Steel_Pickaxe");
+        register(itemStainlessSteelShovel, "Stainless_Steel_Shovel");
+        register(itemStainlessSteelSword, "Stainless_Steel_Sword");
         register(itemWerniumIngot, "Werniumed_Ingot");
         register(itemWerniumedDiamond, "Werniumed_Diamond");
         register(itemWerniumedDiamondSword, "Werniumed_Diamond_Sword");

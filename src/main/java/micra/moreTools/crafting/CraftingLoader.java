@@ -32,6 +32,16 @@ public class CraftingLoader {
                 new Object[]{"WWW", "WWW", " S ", 'W', ItemsLoader.itemWerniumedDiamond, 'S', Items.stick});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemStainlessSteelIngot, 3),
                 new Object[]{"CCC", "III", "CCC", 'C', ItemsLoader.itemChromium, 'I', Items.iron_ingot});
+        GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemStainlessSteelAxe),
+                new Object[]{"SS ", "ST ", " T ", 'S', ItemsLoader.itemStainlessSteelIngot, 'T', Items.stick});
+        GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemStainlessSteelHoe),
+                new Object[]{"SS ", " T ", " T ", 'S', ItemsLoader.itemStainlessSteelIngot, 'T', Items.stick});
+        GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemStainlessSteelPickaxe),
+                new Object[]{"SSS", " T ", " T ", 'S', ItemsLoader.itemStainlessSteelIngot, 'T', Items.stick});
+        GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemStainlessSteelShovel),
+                new Object[]{" S ", " T ", " T ", 'S', ItemsLoader.itemStainlessSteelIngot, 'T', Items.stick});
+        GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemStainlessSteelSword),
+                new Object[]{" S ", " S ", " T ", 'S', ItemsLoader.itemStainlessSteelIngot, 'T', Items.stick});
     }
 
     private static void registerSmelting(){
