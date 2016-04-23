@@ -12,6 +12,8 @@ public class ItemTextureLoader {
 
     private static void loadAll(){
         ItemsLoader.loadTextures(ItemsLoader.itemChromium, "moretools:chromium");
+        ItemsLoader.loadTextures(ItemsLoader.itemEnergyIngot, "moretools:energy_ingot");
+        ItemsLoader.loadTextures(ItemsLoader.itemEnergyWand, "moretools:energy_wand");
         ItemsLoader.loadTextures(ItemsLoader.itemNarregaIngot, "moretools:narrega_ingot");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelIngot, "moretools:stainless_steel_ingot");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelAxe, "moretools:stainless_steel_axe");
@@ -26,6 +28,5 @@ public class ItemTextureLoader {
         ItemsLoader.loadTextures(ItemsLoader.itemWerniumedDiamondAxe, "moretools:werniumed_diamond_axe");
         ItemsLoader.loadTextures(ItemsLoader.itemWerniumedDiamondHoe, "moretools:werniumed_diamond_hoe");
         ItemsLoader.loadTextures(ItemsLoader.itemWerniumedDiamondShovel, "moretools:werniumed_diamond_shovel");
-        ItemsLoader.loadTextures(ItemsLoader.itemWerniumedDiamondWand, "moretools:werniumed_diamond_wand");
     }
 }

@@ -6,6 +6,8 @@ tile.blockStainlessSteel.name=不锈钢块
 tile.blockChromiumBlock.name=铬块
 
 item.itemChromium.name=铬
+item.itemEnergyIngot.name=能量合金
+item.itemEnergyWand.name=能量魔棒
 item.itemNarregaIngot.name=纳尔嘉合金锭
 item.itemStainlessSteelIngot.name=不锈钢锭
 item.itemStainlessSteelAxe.name=不锈钢斧
@@ -13,13 +15,12 @@ item.itemStainlessSteelHoe.name=不锈钢锄
 item.itemStainlessSteelPickaxe.name=不锈钢稿
 item.itemStainlessSteelShovel.name=不锈钢铲
 item.itemStainlessSteelSword.name=不锈钢剑
-item.itemWerniumIngot.name=微元素锭
+item.itemWernium.name=微元素
 item.itemWerniumedDiamond.name=微钻石
 item.itemWerniumedDiamondSword.name=微钻石剑
 item.itemWerniumedDiamondPickaxe.name=微钻石镐
 item.itemWerniumedDiamondAxe.name=微钻石斧
 item.itemWerniumedDiamondHoe.name=微钻石锄
 item.itemWerniumedDiamondShovel.name=微钻石铲
-item.itemWerniumedDiamondWand.name=微钻石魔棒
 
 itemGroup.MoreTools=更多工具

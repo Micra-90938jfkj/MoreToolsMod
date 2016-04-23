@@ -11,6 +11,6 @@ public class ItemWernium extends Item {
     public ItemWernium(){
         this.setUnlocalizedName("itemWernium");
         this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
-        LanguageRegistry.addName(this, "Wernium Ingot");
+        LanguageRegistry.addName(this, "Wernium");
     }
 }

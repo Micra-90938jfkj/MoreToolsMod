@@ -18,6 +18,10 @@ public class CraftingLoader {
     private static void registerRecipe(){
         GameRegistry.addShapelessRecipe(new ItemStack(ItemsLoader.itemNarregaIngot),
                 new Object[]{Items.glowstone_dust, ItemsLoader.itemWernium, Items.blaze_powder, Items.gold_ingot, Items.quartz});
+        GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemEnergyIngot),
+                new Object[]{"WNW", "NIN", "WNW", 'W', ItemsLoader.itemWernium, 'N', Items.nether_star, 'I', Items.iron_ingot});
+        GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemEnergyWand),
+                new Object[]{"WEW", "FDF", " S ", 'W', ItemsLoader.itemWernium, 'E', ItemsLoader.itemEnergyIngot, 'F', Items.fire_charge, 'D', ItemsLoader.itemWerniumedDiamond, 'S', Items.stick});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemWerniumedDiamond),
                 new Object[]{"BNB", "NDN", "BNB", 'B', Items.blaze_powder, 'N', ItemsLoader.itemNarregaIngot, 'D', Items.diamond});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemWerniumedDiamondSword),
@@ -30,8 +34,6 @@ public class CraftingLoader {
                 new Object[]{"WW ", " S ", " S ", 'W', ItemsLoader.itemWerniumedDiamond, 'S', Items.stick});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemWerniumedDiamondShovel),
                 new Object[]{" W ", " S ", " S ", 'W', ItemsLoader.itemWerniumedDiamond, 'S', Items.stick});
-        GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemWerniumedDiamondWand),
-                new Object[]{"WWW", "WWW", " S ", 'W', ItemsLoader.itemWerniumedDiamond, 'S', Items.stick});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemStainlessSteelIngot, 3),
                 new Object[]{"CCC", "III", "CCC", 'C', ItemsLoader.itemChromium, 'I', Items.iron_ingot});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemStainlessSteelAxe),

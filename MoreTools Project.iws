@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00474496-9b3b-4a6e-aee2-65987ea9726b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/narrega_ingot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemNarregaIngot.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/wernium_ingot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/items/ItemWerniumIngot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/wernium_ingot.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemEnergyIngot.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/werniumed_diamond_wand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/items/ItemWerniumedDiamondWand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/werniumed_diamond_wand.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-04-23-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-04-23-1.log.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-04-23-2.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-04-23-2.log.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-04-23-3.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-04-23-3.log.gz" />
@@ -15,12 +14,24 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-04-23-6.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-04-23-6.log.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-04-23-7.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-04-23-7.log.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/session.lock" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界/session.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界的拷贝/level.dat" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界的拷贝/level.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界的拷贝/level.dat_mcr" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界的拷贝/level.dat_mcr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界的拷贝/session.lock" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界的拷贝/session.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/werniumed_diamond_axe.png" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/werniumed_diamond_axe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/werniumed_diamond_hoe.png" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/werniumed_diamond_hoe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/werniumed_diamond_pickaxe.png" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/werniumed_diamond_pickaxe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/werniumed_diamond_shovel.png" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/werniumed_diamond_shovel.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/werniumed_diamond_sword.png" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/werniumed_diamond_sword.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/MoreTools.class" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/MoreTools.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/client/ItemTextureLoader.class" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/client/ItemTextureLoader.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/crafting/CraftingLoader.class" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/crafting/CraftingLoader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/creativeTabs/CreativeTabsLoader$1.class" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/creativeTabs/CreativeTabsLoader$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/items/ItemWerniumedDiamondWand.class" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/items/ItemWerniumedDiamondWand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/items/ItemWernium.class" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/items/ItemWernium.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/items/ItemsLoader.class" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/items/ItemsLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/werniumed_diamond_axe.png" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/werniumed_diamond_axe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/werniumed_diamond_hoe.png" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/werniumed_diamond_hoe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/werniumed_diamond_pickaxe.png" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/werniumed_diamond_pickaxe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/werniumed_diamond_shovel.png" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/werniumed_diamond_shovel.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/werniumed_diamond_sword.png" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/werniumed_diamond_sword.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MoreTools Project.iws" afterPath="$PROJECT_DIR$/MoreTools Project.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" />
@@ -36,12 +47,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/micra/moreTools/MoreTools.java" afterPath="$PROJECT_DIR$/src/main/java/micra/moreTools/MoreTools.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/micra/moreTools/client/ItemTextureLoader.java" afterPath="$PROJECT_DIR$/src/main/java/micra/moreTools/client/ItemTextureLoader.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/micra/moreTools/crafting/CraftingLoader.java" afterPath="$PROJECT_DIR$/src/main/java/micra/moreTools/crafting/CraftingLoader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/micra/moreTools/creativeTabs/CreativeTabsLoader.java" afterPath="$PROJECT_DIR$/src/main/java/micra/moreTools/creativeTabs/CreativeTabsLoader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemWerniumedDiamondWand.java" afterPath="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemWerniumedDiamondWand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemWernium.java" afterPath="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemWernium.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemsLoader.java" afterPath="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemsLoader.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/en_US.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/en_US.lang" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemWerniumIngot.java" afterPath="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemWernium.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemWerniumedDiamondWand.java" afterPath="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemEnergyWand.java" />
     </list>
     <ignored path="MoreTools Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,11 +111,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CraftingLoader.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CraftingLoader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/crafting/CraftingLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="361">
+              <caret line="23" column="193" selection-start-line="23" selection-start-column="193" selection-end-line="23" selection-end-column="193" />
               <folding />
             </state>
           </provider>
@@ -123,11 +133,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItemsLoader.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ItemsLoader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemsLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+            <state relative-caret-position="152">
+              <caret line="20" column="98" selection-start-line="20" selection-start-column="98" selection-end-line="20" selection-end-column="98" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,17 +160,55 @@
       <file leaf-file-name="MoreTools.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/MoreTools.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="209">
+              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+              <folding>
+                <element signature="e#882#883#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemEnergyIngot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemEnergyIngot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockTextureLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/client/BlockTextureLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chromium_block.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/textures/blocks/chromium_block.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="ItemEnergyWand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemEnergyWand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemTextureLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/client/ItemTextureLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -184,9 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/micra90938jfkj/moreTools/items/ItemCopperedDiamond.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/micra90938jfkj/moreTools/common/CommonProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/micra90938jfkj/moreTools/client/ClientProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/micra90938jfkj/moreTools/MoreTools.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/micra90938jfkj/moreTools/items/ItemCopperedDiamondSword.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/micra90938jfkj/moreTools/creativeTabs/CreativeTabsLoader.java" />
@@ -227,13 +272,16 @@
         <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/blocks/BlocksLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/client/BlockTextureLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/worldgen/WorldGeneratorLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/MoreTools.java" />
         <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemWerniumedDiamondWand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/client/ItemTextureLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/en_US.lang" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang" />
         <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemNarregaIngot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/MoreTools.java" />
+        <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemWernium.java" />
+        <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemEnergyWand.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/en_US.lang" />
+        <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemEnergyIngot.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang" />
         <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemsLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/client/ItemTextureLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/crafting/CraftingLoader.java" />
       </list>
     </option>
@@ -288,7 +336,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -736,7 +784,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -755,16 +803,16 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Minecrafts\UGO1.5.2\MC1.7.10modsDevelop\MoreTools Project\src\main\resources\assets\moretools\lang" />
+      <recent name="G:\Minecrafts\UGO1.5.2\MC1.7.10modsDevelop\MoreTools Project\src\main\resources\assets\moret\textures\blocks" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Games\GameSomething\Minecraft\1.7.10 modsDevelop\MoreToolsMod\src\main\resources\assets\moretools\textures\items" />
       <recent name="F:\Games\GameSomething\Minecraft\1.7.10 modsDevelop\MoreToolsMod\src\main\resources\assets\moretools\textures\blocks" />
       <recent name="G:\Minecrafts\UGO1.5.2\MC1.7.10modsDevelop\MoreTools Project\MoreToolsMod\src\main\resources\assets\moretools\textures\items" />
       <recent name="G:\Minecrafts\UGO1.5.2\MC1.7.10modsDevelop\MoreTools Project\MoreToolsMod\src\main\resources\assets\moretools\textures\blocks" />
       <recent name="G:\Minecrafts\UGO1.5.2\MC1.7.10modsDevelop\MoreTools Project\src\main\resources\assets\moretools\textures\items" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\Minecrafts\UGO1.5.2\MC1.7.10modsDevelop\MoreTools Project\src\main\resources\assets\moretools\lang" />
-      <recent name="G:\Minecrafts\UGO1.5.2\MC1.7.10modsDevelop\MoreTools Project\src\main\resources\assets\moret\textures\blocks" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Minecraft Client">
@@ -1057,8 +1105,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1068,11 +1116,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29503918" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29503918" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.193125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1111,14 +1159,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_11/src.zip!/java/util/TimerTask.java" />
-    <entry file="file://$PROJECT_DIR$/eclipse/eula.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eclipse/server.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1144,13 +1184,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemWernium.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -1349,40 +1382,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/client/BlockTextureLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="95" selection-start-line="11" selection-start-column="95" selection-end-line="11" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/worldgen/WorldGeneratorLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
           <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/textures/blocks/chromium_block.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/MoreTools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemWerniumedDiamondWand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1390,9 +1393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1406,42 +1406,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/wernium.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/textures/blocks/chromium_block.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/energy_wand.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemWernium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/lang/en_US.lang">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="399">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemEnergyWand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/client/BlockTextureLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/client/ItemTextureLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="87" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
+        <state relative-caret-position="247">
+          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/wernium.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemNarregaIngot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1455,21 +1479,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemsLoader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/crafting/CraftingLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+        <state relative-caret-position="361">
+          <caret line="23" column="193" selection-start-line="23" selection-start-column="193" selection-end-line="23" selection-end-column="193" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemEnergyIngot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/crafting/CraftingLoader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/MoreTools.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="209">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemNarregaIngot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemsLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="20" column="98" selection-start-line="20" selection-start-column="98" selection-end-line="20" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

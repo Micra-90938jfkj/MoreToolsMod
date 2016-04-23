@@ -17,7 +17,7 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "beta2"
+version = "beta3"
 group= "micra.moreTools" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "MoreTools1.7.10"
 

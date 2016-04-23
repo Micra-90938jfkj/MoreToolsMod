@@ -15,6 +15,8 @@ public class ItemsLoader {
     public static Item.ToolMaterial STAINLESSSTEEL = EnumHelper.addToolMaterial("STAINLESSSTEEL", 2, 600, 6.0F, 2.0F, 14);
 
     public static ItemChromium itemChromium = new ItemChromium();
+    public static ItemEnergyIngot itemEnergyIngot = new ItemEnergyIngot();
+    public static ItemEnergyWand itemEnergyWand = new ItemEnergyWand();
     public static ItemNarregaIngot itemNarregaIngot = new ItemNarregaIngot();
     public static ItemStainlessSteelIngot itemStainlessSteelIngot = new ItemStainlessSteelIngot();
     public static ItemStainlessSteelAxe itemStainlessSteelAxe = new ItemStainlessSteelAxe(STAINLESSSTEEL);
@@ -29,7 +31,6 @@ public class ItemsLoader {
     public static ItemWerniumedDiamondAxe itemWerniumedDiamondAxe = new ItemWerniumedDiamondAxe(WERNIUMEDDIAMOND);
     public static ItemWerniumedDiamondHoe itemWerniumedDiamondHoe = new ItemWerniumedDiamondHoe(WERNIUMEDDIAMOND);
     public static ItemWerniumedDiamondShovel itemWerniumedDiamondShovel = new ItemWerniumedDiamondShovel(WERNIUMEDDIAMOND);
-    public static ItemWerniumedDiamondWand itemWerniumedDiamondWand = new ItemWerniumedDiamondWand();
 
     public ItemsLoader(){
         registerAll();
@@ -41,6 +42,8 @@ public class ItemsLoader {
 
     private static void registerAll(){
         register(itemChromium, "Chromium");
+        register(itemEnergyIngot, "Energy_Ingot");
+        register(itemEnergyWand, "Energy_Wand");
         register(itemNarregaIngot, "Narrega_Ingot");
         register(itemStainlessSteelIngot, "Stainless_Steel_Ingot");
         register(itemStainlessSteelAxe, "Stainless_Steel_Axe");
@@ -55,7 +58,6 @@ public class ItemsLoader {
         register(itemWerniumedDiamondAxe, "Werniumed_Diamond_Axe");
         register(itemWerniumedDiamondHoe, "Werniumed_Diamond_Hoe");
         register(itemWerniumedDiamondShovel, "Werniumed_Diamond_Shovel");
-        register(itemWerniumedDiamondWand, "Werniumed_Diamond_Wand");
     }
 
     @SideOnly(Side.CLIENT)

@@ -1,18 +1,21 @@
-[12:16:59] [main/INFO]: Setting user: Player117
-[12:17:00] [Client thread/INFO]: LWJGL Version: 2.9.1
-[12:17:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
-[12:17:11] [Sound Library Loader/INFO]: Sound engine started
-[12:17:11] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[12:17:11] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[12:17:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
-[12:17:12] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[12:17:12] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[12:17:13] [Sound Library Loader/INFO]: Sound engine started
-[12:17:25] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[12:17:25] [Server thread/INFO]: Generating keypair
-[12:17:26] [Server thread/INFO]: Preparing start region for level 0
-[12:17:26] [Server thread/INFO]: Changing view distance to 8, from 10
-[12:17:27] [Server thread/INFO]: Player117[local:E:33d34001] logged in with entity id 0 at (-470.5, 4.0, -983.5)
-[12:17:27] [Server thread/INFO]: Player117 加入了游戏
-[12:17:31] [Server thread/INFO]: Player117 刚刚获得了 [打开物品栏] 成就！
-[12:17:31] [Client thread/INFO]: [CHAT] Player117 刚刚获得了 [打开物品栏] 成就！
+[19:26:14] [main/INFO]: Setting user: Player844
+[19:26:15] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:26:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
+[19:26:31] [Sound Library Loader/INFO]: Sound engine started
+[19:26:41] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:26:41] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:26:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
+[19:26:42] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:26:42] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[19:26:43] [Sound Library Loader/INFO]: Sound engine started
+[19:26:56] [Client thread/INFO]: Deleting level 新的世界的拷贝
+[19:26:56] [Client thread/INFO]: Attempt 1...
+[19:27:01] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:27:01] [Server thread/INFO]: Generating keypair
+[19:27:01] [Server thread/INFO]: Converting map!
+[19:27:01] [Server thread/INFO]: Scanning folders...
+[19:27:01] [Server thread/INFO]: Total conversion count is 0
+[19:27:02] [Server thread/INFO]: Preparing start region for level 0
+[19:27:02] [Server thread/INFO]: Changing view distance to 8, from 10
+[19:27:03] [Server thread/INFO]: Player844[local:E:8f95ed54] logged in with entity id 0 at (-470.5, 4.0, -983.5)
+[19:27:03] [Server thread/INFO]: Player844 加入了游戏

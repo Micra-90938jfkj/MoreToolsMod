@@ -15,15 +15,15 @@ import net.minecraft.world.World;
 /**
  * Created by Administrator on 2016/3/31 0031.
  */
-public class ItemWerniumedDiamondWand extends Item {
+public class ItemEnergyWand extends Item {
 
-    public ItemWerniumedDiamondWand() {
+    public ItemEnergyWand() {
         super();
-        this.setUnlocalizedName("itemWerniumedDiamondWand");
+        this.setUnlocalizedName("itemEnergyWand");
         this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
         this.setMaxStackSize(1);
         this.setMaxDamage(50);
-        LanguageRegistry.addName(this, "Werniumed Diamond Wand");
+        LanguageRegistry.addName(this, "Energy Wand");
     }
 
     @Override
