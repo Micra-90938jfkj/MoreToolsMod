@@ -1,16 +1,22 @@
-[09:43:56] [main/INFO]: Setting user: Player398
-[09:43:57] [Client thread/INFO]: LWJGL Version: 2.9.1
-[09:44:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
-[09:44:07] [Sound Library Loader/INFO]: Sound engine started
-[09:44:08] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[09:44:08] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[09:44:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
-[09:44:08] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[09:44:09] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[09:44:09] [Sound Library Loader/INFO]: Sound engine started
-[09:44:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[09:44:26] [Server thread/INFO]: Generating keypair
-[09:44:26] [Server thread/INFO]: Preparing start region for level 0
-[09:44:27] [Server thread/INFO]: Changing view distance to 8, from 10
-[09:44:27] [Server thread/INFO]: Player398[local:E:15ec467e] logged in with entity id 135 at (-467.1977234015216, 11.24728873647876, -984.1658936888521)
-[09:44:27] [Server thread/INFO]: Player398 加入了游戏
+[11:24:29] [main/INFO]: Setting user: Player975
+[11:24:31] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:24:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
+[11:24:56] [Sound Library Loader/INFO]: Sound engine started
+[11:24:58] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[11:24:58] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[11:24:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
+[11:24:59] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:25:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:25:01] [Sound Library Loader/INFO]: Sound engine started
+[11:25:07] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:25:07] [Server thread/INFO]: Generating keypair
+[11:25:07] [Server thread/INFO]: Preparing start region for level 0
+[11:25:08] [Server thread/INFO]: Changing view distance to 8, from 10
+[11:25:09] [Server thread/INFO]: Player975[local:E:864bdf1b] logged in with entity id 135 at (-467.1977234015216, 11.24728873647876, -984.1658936888521)
+[11:25:09] [Server thread/INFO]: Player975 加入了游戏
+[11:25:10] [Server thread/INFO]: Saving and pausing game...
+[11:25:10] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[11:25:10] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[11:25:10] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[11:25:19] [Server thread/INFO]: Player975 刚刚获得了 [打开物品栏] 成就！
+[11:25:19] [Client thread/INFO]: [CHAT] Player975 刚刚获得了 [打开物品栏] 成就！
