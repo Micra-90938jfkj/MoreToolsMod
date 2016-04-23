@@ -16,8 +16,10 @@ public class CraftingLoader {
     }
 
     private static void registerRecipe(){
+        GameRegistry.addShapelessRecipe(new ItemStack(ItemsLoader.itemNarregaIngot),
+                new Object[]{Items.glowstone_dust, ItemsLoader.itemWernium, Items.blaze_powder, Items.gold_ingot, Items.quartz});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemWerniumedDiamond),
-                new Object[]{"WWW", "WDW", "WWW", 'W', ItemsLoader.itemWerniumIngot, 'D', Items.diamond});
+                new Object[]{"BNB", "NDN", "BNB", 'B', Items.blaze_powder, 'N', ItemsLoader.itemNarregaIngot, 'D', Items.diamond});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemWerniumedDiamondSword),
                 new Object[]{"DWD", "DWD", " S ", 'D', Items.diamond, 'W', ItemsLoader.itemWerniumedDiamond, 'S', Items.stick});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemWerniumedDiamondPickaxe),
@@ -53,7 +55,7 @@ public class CraftingLoader {
     }
 
     private static void registerSmelting(){
-        GameRegistry.addSmelting(BlocksLoader.blockWerniumOre, new ItemStack(ItemsLoader.itemWerniumIngot), 2F);
+        GameRegistry.addSmelting(BlocksLoader.blockWerniumOre, new ItemStack(ItemsLoader.itemWernium), 0.3F);
         GameRegistry.addSmelting(BlocksLoader.blockChromiumOre, new ItemStack(ItemsLoader.itemChromium), 0.3F);
     }
 }

@@ -40,8 +40,7 @@ public class ItemWerniumedDiamondWand extends Item {
                 player.inventory.addItemStackToInventory(new ItemStack(world.getBlock(x, y - i, z)));
                 world.setBlockToAir(x, y - i, z);
             }
-
-            this.setDamage(stack, stack.getItemDamage() - 1);
+            stack.setItemDamage(stack.getItemDamage()+1);
             i++;
         }
         return true;

@@ -12,13 +12,14 @@ public class ItemTextureLoader {
 
     private static void loadAll(){
         ItemsLoader.loadTextures(ItemsLoader.itemChromium, "moretools:chromium");
+        ItemsLoader.loadTextures(ItemsLoader.itemNarregaIngot, "moretools:narrega_ingot");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelIngot, "moretools:stainless_steel_ingot");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelAxe, "moretools:stainless_steel_axe");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelHoe, "moretools:stainless_steel_hoe");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelPickaxe, "moretools:stainless_steel_pickaxe");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelShovel, "moretools:stainless_steel_shovel");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelSword, "moretools:stainless_steel_sword");
-        ItemsLoader.loadTextures(ItemsLoader.itemWerniumIngot, "moretools:wernium_ingot");
+        ItemsLoader.loadTextures(ItemsLoader.itemWernium, "moretools:wernium");
         ItemsLoader.loadTextures(ItemsLoader.itemWerniumedDiamond, "moretools:werniumed_diamond");
         ItemsLoader.loadTextures(ItemsLoader.itemWerniumedDiamondSword, "moretools:werniumed_diamond_sword");
         ItemsLoader.loadTextures(ItemsLoader.itemWerniumedDiamondPickaxe, "moretools:werniumed_diamond_pickaxe");

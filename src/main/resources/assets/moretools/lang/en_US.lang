@@ -6,6 +6,7 @@ tile.blockStainlessSteel.name=Stainless Steel Block
 tile.blockChromiumBlock.name=Chromium Block
 
 item.itemChromium.name=Chromium
+item.itemNarregaIngot.name=Narrega Ingot
 item.itemStainlessSteelIngot.name=Stainless Steel Ingot
 item.itemStainlessSteelAxe.name=Stainless Steel Axe
 item.itemStainlessSteelHoe.name=Stainless Steel Hoe

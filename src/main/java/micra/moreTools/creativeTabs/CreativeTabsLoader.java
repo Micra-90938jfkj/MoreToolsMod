@@ -15,13 +15,13 @@ public class CreativeTabsLoader {
         @Override
         public Item getTabIconItem() {
             int r = new Random().nextInt(3);
-            Item item = ItemsLoader.itemWerniumIngot;
+            Item item = ItemsLoader.itemWernium;
             if (r==0){
                 item = ItemsLoader.itemWerniumedDiamondSword;
             }else if(r==1){
                 item = ItemsLoader.itemWerniumedDiamond;
             }else if(r==2){
-                item = ItemsLoader.itemWerniumIngot;
+                item = ItemsLoader.itemWernium;
             }
             return item;
         }
