@@ -42,6 +42,14 @@ public class CraftingLoader {
                 new Object[]{" S ", " T ", " T ", 'S', ItemsLoader.itemStainlessSteelIngot, 'T', Items.stick});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemStainlessSteelSword),
                 new Object[]{" S ", " S ", " T ", 'S', ItemsLoader.itemStainlessSteelIngot, 'T', Items.stick});
+        GameRegistry.addRecipe(new ItemStack(BlocksLoader.blockStainlessSteelBlock),
+                new Object[]{"SSS", "SSS", "SSS", 'S', ItemsLoader.itemStainlessSteelIngot});
+        GameRegistry.addShapelessRecipe(new ItemStack(ItemsLoader.itemStainlessSteelIngot, 9),
+                new Object[]{BlocksLoader.blockStainlessSteelBlock});
+        GameRegistry.addRecipe(new ItemStack(BlocksLoader.blockChromiumBlock),
+                new Object[]{"CCC", "CCC", "CCC", 'C', ItemsLoader.itemChromium});
+        GameRegistry.addShapelessRecipe(new ItemStack(ItemsLoader.itemChromium, 9),
+                new Object[]{BlocksLoader.blockChromiumBlock});
     }
 
     private static void registerSmelting(){

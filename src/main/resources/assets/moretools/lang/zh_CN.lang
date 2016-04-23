@@ -2,6 +2,8 @@
 
 tile.blockWerniumOre.name=微元素矿
 tile.blockChromiumOre.name=铬矿
+tile.blockStainlessSteel.name=不锈钢块
+tile.blockChromiumBlock.name=铬块
 
 item.itemChromium.name=铬
 item.itemStainlessSteelIngot.name=不锈钢锭

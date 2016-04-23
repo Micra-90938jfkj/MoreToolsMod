@@ -2,6 +2,8 @@
 
 tile.blockWerniumOre.name=Wernium Ore
 tile.blockChromiumOre.name=Chromium Ore
+tile.blockStainlessSteel.name=Stainless Steel Block
+tile.blockChromiumBlock.name=Chromium Block
 
 item.itemChromium.name=Chromium
 item.itemStainlessSteelIngot.name=Stainless Steel Ingot
