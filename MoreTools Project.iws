@@ -2,8 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00474496-9b3b-4a6e-aee2-65987ea9726b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/playerdata/6a350d2f-62d7-3aa3-951b-7fe208d8b2cb.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/playerdata/c1896c31-8159-3c75-9e16-fc454b66b2cc.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/playerdata/e98cb9c7-30ea-33d5-9363-b24219bed40f.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/region/r.0.-1.mca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/region/r.0.0.mca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/region/r.1.-1.mca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/region/r.1.-2.mca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/region/r.1.0.mca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/region/r.2.-1.mca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/region/r.2.-2.mca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/stats/6a350d2f-62d7-3aa3-951b-7fe208d8b2cb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/stats/c1896c31-8159-3c75-9e16-fc454b66b2cc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/stats/e98cb9c7-30ea-33d5-9363-b24219bed40f.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-04-23-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-04-23-1.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-04-23-2.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-04-23-2.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/DIM-1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界/DIM-1/data/villages.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/DIM1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界/DIM1/data/villages.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/data/Village.dat" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界/data/Village.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界/data/villages.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/level.dat" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界/level.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/level.dat_mcr" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界/level.dat_mcr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/level.dat_old" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界/level.dat_old" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/region/r.0.-2.mca" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界/region/r.0.-2.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/新的世界/session.lock" afterPath="$PROJECT_DIR$/eclipse/saves/新的世界/session.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/stainless_steel_axe.png" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/stainless_steel_axe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/stainless_steel_hoe.png" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/stainless_steel_hoe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/stainless_steel_pickaxe.png" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/stainless_steel_pickaxe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/stainless_steel_sword.png" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/textures/items/stainless_steel_sword.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/blocks/BlocksLoader.class" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/blocks/BlocksLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/client/BlockTextureLoader.class" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/client/BlockTextureLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/crafting/CraftingLoader.class" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/crafting/CraftingLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/worldgen/WorldGeneratorLoader$1.class" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/micra/moreTools/worldgen/WorldGeneratorLoader$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/stainless_steel_axe.png" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/stainless_steel_axe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/stainless_steel_hoe.png" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/stainless_steel_hoe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/stainless_steel_pickaxe.png" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/stainless_steel_pickaxe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/stainless_steel_sword.png" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/textures/items/stainless_steel_sword.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MoreTools Project.iws" afterPath="$PROJECT_DIR$/MoreTools Project.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/micra/moreTools/worldgen/WorldGeneratorLoader.java" afterPath="$PROJECT_DIR$/src/main/java/micra/moreTools/worldgen/WorldGeneratorLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/lang/en_US.lang" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/lang/en_US.lang" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/lang/zh_CN.lang" afterPath="$PROJECT_DIR$/out/production/MoreTools Project/assets/moretools/lang/zh_CN.lang" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/en_US.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/en_US.lang" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang" />
     </list>
     <ignored path="MoreTools Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,31 +144,33 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ItemStainlessSteelAxe.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemStainlessSteelAxe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/lang/en_US.lang">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            <state relative-caret-position="171">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zh_CN.lang" pinned="false" current-in-tab="false">
+      <file leaf-file-name="zh_CN.lang" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlocksLoader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/blocks/BlocksLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+            <state relative-caret-position="171">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -137,13 +186,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WorldGeneratorLoader.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WorldGeneratorLoader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/worldgen/WorldGeneratorLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="261">
+              <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chromium_block.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/textures/blocks/chromium_block.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -214,10 +270,10 @@
         <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/blocks/BlockChromiumBlock.java" />
         <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/blocks/BlocksLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/client/BlockTextureLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/en_US.lang" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang" />
         <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/crafting/CraftingLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/micra/moreTools/worldgen/WorldGeneratorLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/en_US.lang" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang" />
       </list>
     </option>
   </component>
@@ -1004,7 +1060,7 @@
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/eclipse" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jre1.8.0_91" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_77\jre" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -1041,7 +1097,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1055,7 +1111,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.236875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.236875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1094,27 +1150,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/entity/passive/EntityOcelot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/entity/EntityLiving.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/entity/EntityLivingBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/entity/Entity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1767">
@@ -1371,16 +1406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemStainlessSteelAxe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemStainlessSteelHoe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1415,28 +1440,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang">
+    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/crafting/CraftingLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        <state relative-caret-position="470">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/blocks/BlockStainlessSteelBlock.java">
+    <entry file="file://$PROJECT_DIR$/eclipse/hs_err_pid11456.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-4674">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/lang/en_US.lang">
+    <entry file="file://$PROJECT_DIR$/eclipse/hs_err_pid11596.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1451,14 +1474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/crafting/CraftingLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/client/BlockTextureLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1469,8 +1484,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/worldgen/WorldGeneratorLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="261">
+          <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/textures/blocks/chromium_block.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/blocks/BlockStainlessSteelBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/micra/moreTools/items/ItemStainlessSteelAxe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/lang/en_US.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/moretools/lang/zh_CN.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding />
         </state>
       </provider>

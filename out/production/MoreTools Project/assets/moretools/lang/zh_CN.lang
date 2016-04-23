@@ -3,9 +3,15 @@
 tile.blockWerniumOre.name=微元素矿
 tile.blockChromiumOre.name=铬矿
 tile.blockStainlessSteel.name=不锈钢块
+tile.blockChromiumBlock.name=铬块
 
 item.itemChromium.name=铬
 item.itemStainlessSteelIngot.name=不锈钢锭
+item.itemStainlessSteelAxe.name=不锈钢斧
+item.itemStainlessSteelHoe.name=不锈钢锄
+item.itemStainlessSteelPickaxe.name=不锈钢稿
+item.itemStainlessSteelShovel.name=不锈钢铲
+item.itemStainlessSteelSword.name=不锈钢剑
 item.itemWerniumIngot.name=微元素锭
 item.itemWerniumedDiamond.name=微钻石
 item.itemWerniumedDiamondSword.name=微钻石剑

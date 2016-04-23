@@ -7,6 +7,11 @@ tile.blockChromiumBlock.name=Chromium Block
 
 item.itemChromium.name=Chromium
 item.itemStainlessSteelIngot.name=Stainless Steel Ingot
+item.itemStainlessSteelAxe.name=Stainless Steel Axe
+item.itemStainlessSteelHoe.name=Stainless Steel Hoe
+item.itemStainlessSteelPickaxe.name=Stainless Steel Pickaxe
+item.itemStainlessSteelShovel.name=Stainless Steel Shovel
+item.itemStainlessSteelSword.name=Stainless Steel Sword
 item.itemWerniumIngot.name=Wernium Ingot
 item.itemWerniumedDiamond.name=Werniumed Diamond
 item.itemWerniumedDiamondSword.name=Werniumed Diamond Sword
