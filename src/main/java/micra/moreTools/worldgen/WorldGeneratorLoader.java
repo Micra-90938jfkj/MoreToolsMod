@@ -25,7 +25,7 @@ public class WorldGeneratorLoader {
             @Override
             public void generate(Random random, int chunkX, int chunkZ, World world, IChunkProvider chunkGenerator, IChunkProvider chunkProvider) {
                 if(world.provider.dimensionId == 0){
-                    for(int i=1;i<25;i++){
+                    for(int i=1;i<random.nextInt(25);i++){
                         int posX = chunkX * 16 + random.nextInt(16);
                         int posY = random.nextInt(10)+10;
                         int posZ = chunkZ * 16 + random.nextInt(16);
