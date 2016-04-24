@@ -47,7 +47,9 @@ public class WorldGeneratorLoader {
                         int posX = chunkX * 16 + random.nextInt(16);
                         int posY = random.nextInt(28)+12;
                         int posZ = chunkZ * 16 + random.nextInt(16);
-                        GeneratorCore.generate(world, random, posX, posY, posZ);
+                        if(random.nextBoolean()) {
+                            GeneratorCore.generate(world, random, posX, posY, posZ);
+                        }
                     }
                 }
             }

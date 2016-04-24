@@ -10,15 +10,17 @@ import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemSword;
 import net.minecraft.world.World;
+import net.minecraftforge.common.util.EnumHelper;
 
 /**
  * Created by Administrator on 2016/3/31 0031.
  */
-public class ItemEnergyWand extends Item {
+public class ItemEnergyWand extends ItemSword {
 
     public ItemEnergyWand() {
-        super();
+        super(EnumHelper.addToolMaterial("ENERGYWAND", 3, 50, 1.0F, 3.0F, 4));
         this.setUnlocalizedName("itemEnergyWand");
         this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
         this.setMaxStackSize(1);

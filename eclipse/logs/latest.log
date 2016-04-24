@@ -1,21 +1,36 @@
-[19:26:14] [main/INFO]: Setting user: Player844
-[19:26:15] [Client thread/INFO]: LWJGL Version: 2.9.1
-[19:26:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
-[19:26:31] [Sound Library Loader/INFO]: Sound engine started
-[19:26:41] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[19:26:41] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[19:26:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
-[19:26:42] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[19:26:42] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[19:26:43] [Sound Library Loader/INFO]: Sound engine started
-[19:26:56] [Client thread/INFO]: Deleting level 新的世界的拷贝
-[19:26:56] [Client thread/INFO]: Attempt 1...
-[19:27:01] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[19:27:01] [Server thread/INFO]: Generating keypair
-[19:27:01] [Server thread/INFO]: Converting map!
-[19:27:01] [Server thread/INFO]: Scanning folders...
-[19:27:01] [Server thread/INFO]: Total conversion count is 0
-[19:27:02] [Server thread/INFO]: Preparing start region for level 0
-[19:27:02] [Server thread/INFO]: Changing view distance to 8, from 10
-[19:27:03] [Server thread/INFO]: Player844[local:E:8f95ed54] logged in with entity id 0 at (-470.5, 4.0, -983.5)
-[19:27:03] [Server thread/INFO]: Player844 加入了游戏
+[15:07:31] [main/INFO]: Setting user: Player629
+[15:07:32] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:07:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
+[15:07:46] [Sound Library Loader/INFO]: Sound engine started
+[15:07:47] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[15:07:47] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[15:07:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
+[15:07:48] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:07:48] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[15:07:49] [Sound Library Loader/INFO]: Sound engine started
+[15:08:38] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:08:38] [Server thread/INFO]: Generating keypair
+[15:08:39] [Server thread/INFO]: Preparing start region for level 0
+[15:08:40] [Server thread/INFO]: Changing view distance to 8, from 10
+[15:08:40] [Server thread/INFO]: Player629[local:E:ebdddb2d] logged in with entity id 201 at (-927.3248017050365, 4.0, 1204.6733212449733)
+[15:08:40] [Server thread/INFO]: Player629 加入了游戏
+[15:08:50] [Server thread/INFO]: [Player629: 您的游戏模式已被设置为 生存模式 ]
+[15:08:50] [Client thread/INFO]: [CHAT] 您的游戏模式已更新
+[15:09:26] [Server thread/INFO]: [Player629: 您的游戏模式已被设置为 创造模式 ]
+[15:09:26] [Client thread/INFO]: [CHAT] 您的游戏模式已更新
+[15:09:27] [Server thread/INFO]: Player629 刚刚获得了 [打开物品栏] 成就！
+[15:09:27] [Client thread/INFO]: [CHAT] Player629 刚刚获得了 [打开物品栏] 成就！
+[15:09:36] [Client thread/INFO]: [CHAT] '-'不是一个有效的数字
+[15:09:38] [Server thread/INFO]: [Player629: 您的游戏模式已被设置为 生存模式 ]
+[15:09:38] [Client thread/INFO]: [CHAT] 您的游戏模式已更新
+[15:09:44] [Server thread/INFO]: Saving and pausing game...
+[15:09:44] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[15:09:44] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[15:09:44] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[15:09:45] [Server thread/INFO]: Stopping server
+[15:09:45] [Server thread/INFO]: Saving players
+[15:09:45] [Server thread/INFO]: Saving worlds
+[15:09:45] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[15:09:45] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[15:09:45] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[15:09:46] [Client thread/INFO]: Stopping!
