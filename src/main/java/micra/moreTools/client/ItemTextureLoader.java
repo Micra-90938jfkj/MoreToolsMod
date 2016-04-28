@@ -13,9 +13,11 @@ public class ItemTextureLoader {
     private static void loadAll(){
         ItemsLoader.loadTextures(ItemsLoader.itemChromium, "moretools:chromium");
         ItemsLoader.loadTextures(ItemsLoader.itemEnergyIngot, "moretools:energy_ingot");
-        ItemsLoader.loadTextures(ItemsLoader.itemEnergyWand, "moretools:energy_wand");
+        ItemsLoader.loadTextures(ItemsLoader.itemEnergyWandEmpty, "moretools:energy_wand_empty");
+        ItemsLoader.loadTextures(ItemsLoader.itemEnergyWandFire, "moretools:energy_wand_fire");
         ItemsLoader.loadTextures(ItemsLoader.itemNarregaIngot, "moretools:narrega_ingot");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelIngot, "moretools:stainless_steel_ingot");
+        ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelMaterial, "moretools:stainless_steel_ingot_material");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelAxe, "moretools:stainless_steel_axe");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelHoe, "moretools:stainless_steel_hoe");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelPickaxe, "moretools:stainless_steel_pickaxe");

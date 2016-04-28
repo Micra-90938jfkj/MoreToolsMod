@@ -1,36 +1,33 @@
-[15:07:31] [main/INFO]: Setting user: Player629
-[15:07:32] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:07:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
-[15:07:46] [Sound Library Loader/INFO]: Sound engine started
-[15:07:47] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[15:07:47] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[15:07:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
-[15:07:48] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:07:48] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[15:07:49] [Sound Library Loader/INFO]: Sound engine started
-[15:08:38] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[15:08:38] [Server thread/INFO]: Generating keypair
-[15:08:39] [Server thread/INFO]: Preparing start region for level 0
-[15:08:40] [Server thread/INFO]: Changing view distance to 8, from 10
-[15:08:40] [Server thread/INFO]: Player629[local:E:ebdddb2d] logged in with entity id 201 at (-927.3248017050365, 4.0, 1204.6733212449733)
-[15:08:40] [Server thread/INFO]: Player629 加入了游戏
-[15:08:50] [Server thread/INFO]: [Player629: 您的游戏模式已被设置为 生存模式 ]
-[15:08:50] [Client thread/INFO]: [CHAT] 您的游戏模式已更新
-[15:09:26] [Server thread/INFO]: [Player629: 您的游戏模式已被设置为 创造模式 ]
-[15:09:26] [Client thread/INFO]: [CHAT] 您的游戏模式已更新
-[15:09:27] [Server thread/INFO]: Player629 刚刚获得了 [打开物品栏] 成就！
-[15:09:27] [Client thread/INFO]: [CHAT] Player629 刚刚获得了 [打开物品栏] 成就！
-[15:09:36] [Client thread/INFO]: [CHAT] '-'不是一个有效的数字
-[15:09:38] [Server thread/INFO]: [Player629: 您的游戏模式已被设置为 生存模式 ]
-[15:09:38] [Client thread/INFO]: [CHAT] 您的游戏模式已更新
-[15:09:44] [Server thread/INFO]: Saving and pausing game...
-[15:09:44] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
-[15:09:44] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
-[15:09:44] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
-[15:09:45] [Server thread/INFO]: Stopping server
-[15:09:45] [Server thread/INFO]: Saving players
-[15:09:45] [Server thread/INFO]: Saving worlds
-[15:09:45] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
-[15:09:45] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
-[15:09:45] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
-[15:09:46] [Client thread/INFO]: Stopping!
+[20:43:14] [main/INFO]: Setting user: Player313
+[20:43:15] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:43:26] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
+[20:43:27] [Sound Library Loader/INFO]: Sound engine started
+[20:43:30] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:43:30] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:43:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Tools
+[20:43:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:43:31] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[20:43:32] [Sound Library Loader/INFO]: Sound engine started
+[20:43:54] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:43:54] [Server thread/INFO]: Generating keypair
+[20:43:54] [Server thread/INFO]: Preparing start region for level 0
+[20:43:55] [Server thread/INFO]: Changing view distance to 8, from 10
+[20:43:55] [Server thread/INFO]: Player313[local:E:834b8fe2] logged in with entity id 168 at (-974.3699001829659, 12.953466003863326, 1237.5802063288502)
+[20:43:55] [Server thread/INFO]: Player313 加入了游戏
+[20:44:02] [Server thread/INFO]: Player313 刚刚获得了 [打开物品栏] 成就！
+[20:44:02] [Client thread/INFO]: [CHAT] Player313 刚刚获得了 [打开物品栏] 成就！
+[20:44:27] [Server thread/INFO]: [Player313: 您的游戏模式已被设置为 生存模式 ]
+[20:44:27] [Client thread/INFO]: [CHAT] 您的游戏模式已更新
+[20:47:14] [Server thread/INFO]: [Player313: 您的游戏模式已被设置为 创造模式 ]
+[20:47:14] [Client thread/INFO]: [CHAT] 您的游戏模式已更新
+[20:48:06] [Server thread/INFO]: Saving and pausing game...
+[20:48:06] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[20:48:06] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[20:48:06] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[20:48:07] [Server thread/INFO]: Stopping server
+[20:48:07] [Server thread/INFO]: Saving players
+[20:48:07] [Server thread/INFO]: Saving worlds
+[20:48:07] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[20:48:07] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[20:48:07] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[20:48:08] [Client thread/INFO]: Stopping!

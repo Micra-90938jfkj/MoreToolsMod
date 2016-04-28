@@ -4,6 +4,7 @@ import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
 import net.minecraftforge.common.util.EnumHelper;
 
 /**
@@ -11,14 +12,16 @@ import net.minecraftforge.common.util.EnumHelper;
  */
 public class ItemsLoader {
 
-    public static Item.ToolMaterial WERNIUMEDDIAMOND = EnumHelper.addToolMaterial("WERNIUMEDDIAMOND", 4, 6000, 10.5F, 17.5F, 20);
-    public static Item.ToolMaterial STAINLESSSTEEL = EnumHelper.addToolMaterial("STAINLESSSTEEL", 2, 600, 6.0F, 2.0F, 14);
+    public static Item.ToolMaterial WERNIUMEDDIAMOND = EnumHelper.addToolMaterial("WERNIUMEDDIAMOND", 4, 2000, 10.5F, 12F, 20);
+    public static Item.ToolMaterial STAINLESSSTEEL = EnumHelper.addToolMaterial("STAINLESSSTEEL", 2, 500, 6.0F, 2.0F, 14);
 
     public static ItemChromium itemChromium = new ItemChromium();
     public static ItemEnergyIngot itemEnergyIngot = new ItemEnergyIngot();
-    public static ItemEnergyWand itemEnergyWand = new ItemEnergyWand();
+    public static ItemEnergyWandEmpty itemEnergyWandEmpty = new ItemEnergyWandEmpty();
+    public static ItemEnergyWandFire itemEnergyWandFire = new ItemEnergyWandFire();
     public static ItemNarregaIngot itemNarregaIngot = new ItemNarregaIngot();
     public static ItemStainlessSteelIngot itemStainlessSteelIngot = new ItemStainlessSteelIngot();
+    public static ItemStainlessSteelMaterial itemStainlessSteelMaterial = new ItemStainlessSteelMaterial();
     public static ItemStainlessSteelAxe itemStainlessSteelAxe = new ItemStainlessSteelAxe(STAINLESSSTEEL);
     public static ItemStainlessSteelHoe itemStainlessSteelHoe = new ItemStainlessSteelHoe(STAINLESSSTEEL);
     public static ItemStainlessSteelPickaxe itemStainlessSteelPickaxe = new ItemStainlessSteelPickaxe(STAINLESSSTEEL);
@@ -33,6 +36,8 @@ public class ItemsLoader {
     public static ItemWerniumedDiamondShovel itemWerniumedDiamondShovel = new ItemWerniumedDiamondShovel(WERNIUMEDDIAMOND);
 
     public ItemsLoader(){
+        WERNIUMEDDIAMOND.setRepairItem(new ItemStack(itemWerniumedDiamond));
+        STAINLESSSTEEL.setRepairItem(new ItemStack(itemStainlessSteelIngot));
         registerAll();
     }
 
@@ -43,9 +48,11 @@ public class ItemsLoader {
     private static void registerAll(){
         register(itemChromium, "Chromium");
         register(itemEnergyIngot, "Energy_Ingot");
-        register(itemEnergyWand, "Energy_Wand");
+        register(itemEnergyWandEmpty, "Energy_Wand_Empty");
+        register(itemEnergyWandFire, "Energy_Wand_Fire");
         register(itemNarregaIngot, "Narrega_Ingot");
         register(itemStainlessSteelIngot, "Stainless_Steel_Ingot");
+        register(itemStainlessSteelMaterial, "Stainless_Steel_Ingot_Material");
         register(itemStainlessSteelAxe, "Stainless_Steel_Axe");
         register(itemStainlessSteelHoe, "Stainless_Steel_Hoe");
         register(itemStainlessSteelPickaxe, "Stainless_Steel_Pickaxe");

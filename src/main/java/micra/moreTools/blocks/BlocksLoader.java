@@ -13,12 +13,14 @@ public class BlocksLoader {
     public static BlockWerniumOre blockWerniumOre = new BlockWerniumOre();
     public static BlockChromiumOre blockChromiumOre = new BlockChromiumOre();
     public static BlockChromiumBlock blockChromiumBlock = new BlockChromiumBlock();
+    public static BlockNarregaBlock blockNarregaBlock = new BlockNarregaBlock();
     public static BlockStainlessSteelBlock blockStainlessSteelBlock = new BlockStainlessSteelBlock();
 
     public BlocksLoader(){
         register(blockWerniumOre, "Wernium_Ore");
         register(blockChromiumOre, "Chrmium_Ore");
         register(blockChromiumBlock, "Chromium_Block");
+        register(blockNarregaBlock, "Narrega_Block");
         register(blockStainlessSteelBlock, "Stainless_Steel_Block");
     }
 

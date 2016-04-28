@@ -4,12 +4,15 @@ tile.blockWerniumOre.name=微元素矿
 tile.blockChromiumOre.name=铬矿
 tile.blockStainlessSteel.name=不锈钢块
 tile.blockChromiumBlock.name=铬块
+tile.blockNarregaBlock.name=纳尔嘉合金块
 
 item.itemChromium.name=铬
 item.itemEnergyIngot.name=能量合金
-item.itemEnergyWand.name=能量魔棒
+item.itemEnergyWandEmpty.name=能量魔棒(无效果)
+item.itemEnergyWandFire.name=能量魔棒(火属性)
 item.itemNarregaIngot.name=纳尔嘉合金锭
 item.itemStainlessSteelIngot.name=不锈钢锭
+item.itemStainlessSteelMaterial.name=不锈钢原料
 item.itemStainlessSteelAxe.name=不锈钢斧
 item.itemStainlessSteelHoe.name=不锈钢锄
 item.itemStainlessSteelPickaxe.name=不锈钢稿

@@ -4,6 +4,7 @@ import micra.moreTools.blocks.BlocksLoader;
 import cpw.mods.fml.common.IWorldGenerator;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.world.World;
+import net.minecraft.world.biome.BiomeGenBase;
 import net.minecraft.world.chunk.IChunkProvider;
 import net.minecraft.world.gen.feature.WorldGenMinable;
 
@@ -27,11 +28,9 @@ public class WorldGeneratorLoader {
                 if(world.provider.dimensionId == 0){
                     for(int i=1;i<random.nextInt(25);i++){
                         int posX = chunkX * 16 + random.nextInt(16);
-                        int posY = random.nextInt(10)+10;
+                        int posY = random.nextInt(5);
                         int posZ = chunkZ * 16 + random.nextInt(16);
-                        if(random.nextBoolean()){
-                            GeneratorCore.generate(world, random, posX, posY, posZ);
-                        }
+                        GeneratorCore.generate(world, random, posX, posY, posZ);
                     }
                 }
             }
@@ -45,10 +44,13 @@ public class WorldGeneratorLoader {
                 if(world.provider.dimensionId == 0){
                     for(int i=1;i<60;i++){
                         int posX = chunkX * 16 + random.nextInt(16);
-                        int posY = random.nextInt(28)+12;
+                        int posY = random.nextInt(28)+10;
                         int posZ = chunkZ * 16 + random.nextInt(16);
                         if(random.nextBoolean()) {
-                            GeneratorCore.generate(world, random, posX, posY, posZ);
+                            BiomeGenBase base = world.getBiomeGenForCoords(posX, posZ);
+                            if(base.biomeName.equalsIgnoreCase("Ocean")){
+                                GeneratorCore.generate(world, random, posX, posY, posZ);
+                            }
                         }
                     }
                 }

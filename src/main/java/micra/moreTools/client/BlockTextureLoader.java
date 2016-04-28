@@ -10,6 +10,7 @@ public class BlockTextureLoader {
         BlocksLoader.LoadTextures(BlocksLoader.blockWerniumOre, "moretools:wernium_ore");
         BlocksLoader.LoadTextures(BlocksLoader.blockChromiumOre, "moretools:chromium_ore");
         BlocksLoader.LoadTextures(BlocksLoader.blockChromiumBlock, "moretools:chromium_block");
+        BlocksLoader.LoadTextures(BlocksLoader.blockNarregaBlock, "moretools:narrega_block");
         BlocksLoader.LoadTextures(BlocksLoader.blockStainlessSteelBlock, "moretools:stainless_steel_block");
     }
 }
