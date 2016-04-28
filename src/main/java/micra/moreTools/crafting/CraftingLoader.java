@@ -3,6 +3,7 @@ package micra.moreTools.crafting;
 import micra.moreTools.blocks.BlocksLoader;
 import micra.moreTools.items.ItemsLoader;
 import cpw.mods.fml.common.registry.GameRegistry;
+import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
 
@@ -24,6 +25,7 @@ public class CraftingLoader {
                 new Object[]{"WEW", "FDF", " S ", 'W', ItemsLoader.itemWernium, 'E', ItemsLoader.itemEnergyIngot, 'F', Items.fire_charge, 'D', ItemsLoader.itemWerniumedDiamond, 'S', Items.stick});
         GameRegistry.addShapelessRecipe(new ItemStack(ItemsLoader.itemEnergyWandFire),
                 new Object[]{ItemsLoader.itemEnergyWandEmpty, Items.fire_charge});
+        GameRegistry.addShapelessRecipe(new ItemStack(ItemsLoader.itemEnergyWandExplode), new Object[]{ItemsLoader.itemEnergyWandEmpty, Blocks.tnt});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemWerniumedDiamond),
                 new Object[]{"BNB", "NDN", "BNB", 'B', Items.blaze_powder, 'N', ItemsLoader.itemNarregaIngot, 'D', Items.diamond});
         GameRegistry.addRecipe(new ItemStack(ItemsLoader.itemWerniumedDiamondSword),

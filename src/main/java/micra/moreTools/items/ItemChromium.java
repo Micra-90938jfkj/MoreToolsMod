@@ -10,7 +10,7 @@ import net.minecraft.item.Item;
 public class ItemChromium extends Item {
     public ItemChromium(){
         this.setUnlocalizedName("itemChromium");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.techTab);
         LanguageRegistry.addName(this, "Chromium");
     }
 }

@@ -12,7 +12,7 @@ public class BlockStainlessSteelBlock extends Block {
     protected BlockStainlessSteelBlock() {
         super(Material.rock);
         this.setBlockName("blockStainlessSteel");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.techTab);
         this.setHardness(4.5F);
         LanguageRegistry.addName(this, "Stainless Steel Block");
     }

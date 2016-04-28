@@ -11,7 +11,7 @@ public class ItemStainlessSteelPickaxe extends ItemPickaxe {
     protected ItemStainlessSteelPickaxe(ToolMaterial material) {
         super(material);
         this.setUnlocalizedName("itemStainlessSteelPickaxe");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.techTab);
         LanguageRegistry.addName(this, "Stainless Steel Pickaxe");
     }
 }

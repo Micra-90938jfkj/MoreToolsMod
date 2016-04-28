@@ -10,7 +10,7 @@ import net.minecraft.item.Item;
 public class ItemEnergyIngot extends Item {
     public ItemEnergyIngot(){
         this.setUnlocalizedName("itemEnergyIngot");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.magicTab);
         LanguageRegistry.addName(this, "Energy Ingot");
     }
 }

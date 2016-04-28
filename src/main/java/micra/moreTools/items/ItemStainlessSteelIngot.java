@@ -10,7 +10,7 @@ import net.minecraft.item.Item;
 public class ItemStainlessSteelIngot extends Item {
     public ItemStainlessSteelIngot(){
         this.setUnlocalizedName("itemStainlessSteelIngot");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.techTab);
         LanguageRegistry.addName(this, "Stainless Steel Ingot");
     }
 }

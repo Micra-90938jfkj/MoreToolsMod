@@ -12,7 +12,7 @@ public class ItemWerniumedDiamondShovel extends ItemSpade {
     public ItemWerniumedDiamondShovel(ToolMaterial material) {
         super(material);
         this.setUnlocalizedName("itemWerniumedDiamondShovel");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.magicTab);
         LanguageRegistry.addName(this, "Werniumed Diamond Shovel");
     }
 

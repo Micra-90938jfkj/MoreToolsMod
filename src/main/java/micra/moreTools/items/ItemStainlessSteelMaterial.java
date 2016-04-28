@@ -11,7 +11,7 @@ public class ItemStainlessSteelMaterial extends Item {
 
     protected ItemStainlessSteelMaterial(){
         this.setUnlocalizedName("itemStainlessSteelMaterial");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.techTab);
         LanguageRegistry.addName(this, "Stainless Steel Material");
     }
 

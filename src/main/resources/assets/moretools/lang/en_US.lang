@@ -10,6 +10,7 @@ item.itemChromium.name=Chromium
 item.itemEnergyIngot.name=Energy Ingot
 item.itemEnergyWandEmpty.name=Energy Wand (Empty)
 item.itemEnergyWandFire.name=Energy Wand (Fire)
+item.itemEnergyWandExplode.name=Energy Wand (Explode)
 item.itemNarregaIngot.name=Narrega Ingot
 item.itemStainlessSteelIngot.name=Stainless Steel Ingot
 item.itemStainlessSteelMaterial.name=Stainless Steel Material
@@ -26,4 +27,5 @@ item.itemWerniumedDiamondHoe.name=Werniumed Diamond Hoe
 item.itemWerniumedDiamondAxe.name=Werniumed Diamond Axe
 item.itemWerniumedDiamondShovel.name=Werniumed Diamond Shovel
 
-itemGroup.MoreTools=More Tools
+itemGroup.MoreToolsMagicTab=More Tools Magic
+itemGroup.MoreToolsTechTab=More Tools Tech

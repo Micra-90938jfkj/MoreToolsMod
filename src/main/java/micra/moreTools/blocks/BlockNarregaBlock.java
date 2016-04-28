@@ -13,7 +13,7 @@ public class BlockNarregaBlock extends Block {
         super(Material.rock);
         this.setBlockName("blockNarregaBlock");
         this.setLightLevel(4.0F);
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.magicTab);
         this.setHardness(5.0F);
         LanguageRegistry.addName(this, "Narrega Block");
     }

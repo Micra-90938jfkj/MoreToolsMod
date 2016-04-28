@@ -19,6 +19,7 @@ public class ItemsLoader {
     public static ItemEnergyIngot itemEnergyIngot = new ItemEnergyIngot();
     public static ItemEnergyWandEmpty itemEnergyWandEmpty = new ItemEnergyWandEmpty();
     public static ItemEnergyWandFire itemEnergyWandFire = new ItemEnergyWandFire();
+    public static ItemEnergyWandExplode itemEnergyWandExplode = new ItemEnergyWandExplode();
     public static ItemNarregaIngot itemNarregaIngot = new ItemNarregaIngot();
     public static ItemStainlessSteelIngot itemStainlessSteelIngot = new ItemStainlessSteelIngot();
     public static ItemStainlessSteelMaterial itemStainlessSteelMaterial = new ItemStainlessSteelMaterial();
@@ -50,6 +51,7 @@ public class ItemsLoader {
         register(itemEnergyIngot, "Energy_Ingot");
         register(itemEnergyWandEmpty, "Energy_Wand_Empty");
         register(itemEnergyWandFire, "Energy_Wand_Fire");
+        register(itemEnergyWandExplode, "Energy_Wand_Explode");
         register(itemNarregaIngot, "Narrega_Ingot");
         register(itemStainlessSteelIngot, "Stainless_Steel_Ingot");
         register(itemStainlessSteelMaterial, "Stainless_Steel_Ingot_Material");

@@ -12,7 +12,7 @@ public class ItemWerniumedDiamondAxe extends ItemAxe {
     public ItemWerniumedDiamondAxe(ToolMaterial material) {
         super(material);
         this.setUnlocalizedName("itemWerniumedDiamondAxe");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.magicTab);
         LanguageRegistry.addName(this, "Werniumed Diamond Axe");
     }
 

@@ -11,23 +11,17 @@ import java.util.Random;
  */
 public class CreativeTabsLoader {
 
-    public static CreativeTabs MainCreativeTab = new CreativeTabs("MoreTools") {
+    public static CreativeTabs magicTab = new CreativeTabs("MoreToolsMagicTab") {
         @Override
         public Item getTabIconItem() {
-            int r = new Random().nextInt(3);
-            Item item = ItemsLoader.itemWernium;
-            if (r==0){
-                item = ItemsLoader.itemWerniumedDiamondSword;
-            }else if(r==1){
-                item = ItemsLoader.itemWerniumedDiamond;
-            }else if(r==2){
-                item = ItemsLoader.itemWernium;
-            }
-            return item;
+            return ItemsLoader.itemWernium;
         }
     };
 
-    public CreativeTabsLoader(){
-
-    }
+    public static CreativeTabs techTab = new CreativeTabs("MoreToolsTechTab") {
+        @Override
+        public Item getTabIconItem() {
+            return ItemsLoader.itemChromium;
+        }
+    };
 }

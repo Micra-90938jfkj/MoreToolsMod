@@ -11,7 +11,7 @@ public class ItemStainlessSteelHoe extends ItemHoe {
     public ItemStainlessSteelHoe(ToolMaterial material) {
         super(material);
         this.setUnlocalizedName("itemStainlessSteelHoe");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.techTab);
         LanguageRegistry.addName(this, "Stainless Steel Hoe");
     }
 }

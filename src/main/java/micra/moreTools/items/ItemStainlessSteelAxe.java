@@ -11,7 +11,7 @@ public class ItemStainlessSteelAxe extends ItemAxe {
     protected ItemStainlessSteelAxe(ToolMaterial material) {
         super(material);
         this.setUnlocalizedName("itemStainlessSteelAxe");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.techTab);
         LanguageRegistry.addName(this, "Stainless Steel Axe");
     }
 }

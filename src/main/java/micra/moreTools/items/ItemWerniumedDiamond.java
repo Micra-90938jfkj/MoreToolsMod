@@ -10,7 +10,7 @@ import net.minecraft.item.Item;
 public class ItemWerniumedDiamond extends Item {
     public ItemWerniumedDiamond(){
         this.setUnlocalizedName("itemWerniumedDiamond");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.magicTab);
         LanguageRegistry.addName(this, "Werniumed Diamond");
     }
 }

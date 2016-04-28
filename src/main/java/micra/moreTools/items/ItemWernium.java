@@ -10,7 +10,7 @@ import net.minecraft.item.Item;
 public class ItemWernium extends Item {
     public ItemWernium(){
         this.setUnlocalizedName("itemWernium");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.magicTab);
         LanguageRegistry.addName(this, "Wernium");
     }
 }

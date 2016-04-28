@@ -12,7 +12,7 @@ public class BlockChromiumOre extends BlockOre {
         super();
         this.setHardness(3.0F);
         this.setBlockName("blockChromiumOre");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.techTab);
         this.setHardness(4.0F);
         LanguageRegistry.addName(this, "Chromium Ore");
     }

@@ -11,7 +11,7 @@ public class ItemWerniumedDiamondSword extends ItemSword {
 
     public ItemWerniumedDiamondSword(ToolMaterial material) {
         super(material);
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.magicTab);
         this.setUnlocalizedName("itemWerniumedDiamondSword");
         LanguageRegistry.addName(this, "Werniumed Diamond Sword");
     }

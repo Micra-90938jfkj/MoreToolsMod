@@ -11,7 +11,7 @@ public class ItemNarregaIngot extends Item {
     public ItemNarregaIngot(){
         super();
         this.setUnlocalizedName("itemNarregaIngot");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.magicTab);
         LanguageRegistry.addName(this, "Narrega Ingot");
     }
 }

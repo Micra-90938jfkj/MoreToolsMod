@@ -10,6 +10,7 @@ item.itemChromium.name=铬
 item.itemEnergyIngot.name=能量合金
 item.itemEnergyWandEmpty.name=能量魔棒(无效果)
 item.itemEnergyWandFire.name=能量魔棒(火属性)
+item.itemEnergyWandExplode.name=能量魔棒(爆炸属性)
 item.itemNarregaIngot.name=纳尔嘉合金锭
 item.itemStainlessSteelIngot.name=不锈钢锭
 item.itemStainlessSteelMaterial.name=不锈钢原料
@@ -26,4 +27,5 @@ item.itemWerniumedDiamondAxe.name=微钻石斧
 item.itemWerniumedDiamondHoe.name=微钻石锄
 item.itemWerniumedDiamondShovel.name=微钻石铲
 
-itemGroup.MoreTools=更多工具
+itemGroup.MoreToolsMagicTab=更多工具-魔法
+itemGroup.MoreToolsTechTab=更多工具-科技

@@ -12,7 +12,7 @@ public class BlockChromiumBlock extends Block {
     protected BlockChromiumBlock() {
         super(Material.rock);
         this.setBlockName("blockChromiumBlock");
-        this.setCreativeTab(CreativeTabsLoader.MainCreativeTab);
+        this.setCreativeTab(CreativeTabsLoader.techTab);
         this.setHardness(2.5F);
         LanguageRegistry.addName(this, "ChromiumBlock");
     }
