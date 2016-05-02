@@ -12,6 +12,5 @@ public class ItemWerniumedDiamondHoe extends ItemHoe {
         super(material);
         this.setUnlocalizedName("itemWerniumedDiamondHoe");
         this.setCreativeTab(CreativeTabsLoader.magicTab);
-        LanguageRegistry.addName(this, "Werniumed Diamond Hoe");
     }
 }

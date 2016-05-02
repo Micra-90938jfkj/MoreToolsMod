@@ -14,7 +14,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 public class MoreTools {
     public static final String MODID = "MoreTools";
     public static final String NAME = "More Tools";
-    public static final String VERSION = "beta3";
+    public static final String VERSION = "beta4";
 
     @SidedProxy(clientSide = "micra.moreTools.client.ClientProxy",
             serverSide = "micra.moreTools.common.CommonProxy")

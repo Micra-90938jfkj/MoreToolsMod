@@ -5,6 +5,7 @@ tile.blockChromiumOre.name=Chromium Ore
 tile.blockStainlessSteel.name=Stainless Steel Block
 tile.blockChromiumBlock.name=Chromium Block
 tile.blockNarregaBlock.name=Narrega Block
+tile.blockStarRock.name=Star Rock
 
 item.itemChromium.name=Chromium
 item.itemEnergyIngot.name=Energy Ingot
@@ -19,6 +20,7 @@ item.itemStainlessSteelHoe.name=Stainless Steel Hoe
 item.itemStainlessSteelPickaxe.name=Stainless Steel Pickaxe
 item.itemStainlessSteelShovel.name=Stainless Steel Shovel
 item.itemStainlessSteelSword.name=Stainless Steel Sword
+item.itemStarRockFragment.name=Star Rock Fragment
 item.itemWernium.name=Wernium
 item.itemWerniumedDiamond.name=Werniumed Diamond
 item.itemWerniumedDiamondSword.name=Werniumed Diamond Sword

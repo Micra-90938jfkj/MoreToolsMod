@@ -10,7 +10,6 @@ public class ItemEnergyWandEmpty extends ItemEnergyWand {
     public ItemEnergyWandEmpty() {
         super();
         this.setUnlocalizedName("itemEnergyWandEmpty");
-        LanguageRegistry.addName(this, "Energy Wand (Empty)");
     }
 
 }

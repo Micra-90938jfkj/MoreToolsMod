@@ -1,6 +1,7 @@
 package micra.moreTools.common;
 
 import micra.moreTools.blocks.BlocksLoader;
+import micra.moreTools.common.events.EventsLoader;
 import micra.moreTools.crafting.CraftingLoader;
 import micra.moreTools.creativeTabs.CreativeTabsLoader;
 import micra.moreTools.items.ItemsLoader;
@@ -21,6 +22,7 @@ public class CommonProxy {
 
     public void init(FMLInitializationEvent event){
         new CraftingLoader();
+        new EventsLoader();
         new WorldGeneratorLoader();
     }
 

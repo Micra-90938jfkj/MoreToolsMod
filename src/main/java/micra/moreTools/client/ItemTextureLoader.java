@@ -17,6 +17,7 @@ public class ItemTextureLoader {
         ItemsLoader.loadTextures(ItemsLoader.itemEnergyWandFire, "moretools:energy_wand_fire");
         ItemsLoader.loadTextures(ItemsLoader.itemEnergyWandExplode, "moretools:energy_wand_explode");
         ItemsLoader.loadTextures(ItemsLoader.itemNarregaIngot, "moretools:narrega_ingot");
+        ItemsLoader.loadTextures(ItemsLoader.itemStarRockFragment, "moretools:star_rock_fragment");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelIngot, "moretools:stainless_steel_ingot");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelMaterial, "moretools:stainless_steel_ingot_material");
         ItemsLoader.loadTextures(ItemsLoader.itemStainlessSteelAxe, "moretools:stainless_steel_axe");

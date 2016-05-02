@@ -11,6 +11,5 @@ public class ItemChromium extends Item {
     public ItemChromium(){
         this.setUnlocalizedName("itemChromium");
         this.setCreativeTab(CreativeTabsLoader.techTab);
-        LanguageRegistry.addName(this, "Chromium");
     }
 }

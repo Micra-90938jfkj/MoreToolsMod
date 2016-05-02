@@ -14,7 +14,6 @@ public class ItemWerniumedDiamondPickaxe extends ItemPickaxe {
         super(material);
         this.setUnlocalizedName("itemWerniumedDiamondPickaxe");
         this.setCreativeTab(CreativeTabsLoader.magicTab);
-        LanguageRegistry.addName(this, "Werniumed Diamond Pickaxe");
     }
 
 }

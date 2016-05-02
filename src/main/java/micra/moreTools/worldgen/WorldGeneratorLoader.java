@@ -17,6 +17,7 @@ public class WorldGeneratorLoader {
 
     public static IWorldGenerator werniumOreGenerator;
     public static IWorldGenerator chromiumOreGenerator;
+    public static IWorldGenerator starRockGenerator;
 
     public WorldGeneratorLoader(){
         werniumOreGenerator = new IWorldGenerator() {
@@ -51,6 +52,24 @@ public class WorldGeneratorLoader {
                             if(base.biomeName.equalsIgnoreCase("Ocean")){
                                 GeneratorCore.generate(world, random, posX, posY, posZ);
                             }
+                        }
+                    }
+                }
+            }
+        };
+        starRockGenerator = new IWorldGenerator() {
+
+            WorldGenMinable GeneratorCore = new WorldGenMinable(BlocksLoader.blockStarRock, 2);
+
+            @Override
+            public void generate(Random random, int chunkX, int chunkZ, World world, IChunkProvider chunkGenerator, IChunkProvider chunkProvider) {
+                if(world.provider.dimensionId == 0){
+                    for(int i=1;i<=5;i++){
+                        int posX = chunkX * 16 + random.nextInt(16);
+                        int posY = random.nextInt(30);
+                        int posZ = chunkZ * 16 + random.nextInt(16);
+                        if(random.nextBoolean()){
+                            GeneratorCore.generate(world, random, posX, posY, posZ);
                         }
                     }
                 }

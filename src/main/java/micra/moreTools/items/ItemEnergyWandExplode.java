@@ -15,7 +15,6 @@ public class ItemEnergyWandExplode extends ItemEnergyWand {
     public ItemEnergyWandExplode(){
         super();
         this.setUnlocalizedName("itemEnergyWandExplode");
-        LanguageRegistry.addName(this, "Energy Wand (Explode)");
     }
 
     @Override

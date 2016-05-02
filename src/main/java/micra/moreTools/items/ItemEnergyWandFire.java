@@ -17,7 +17,6 @@ public class ItemEnergyWandFire extends ItemEnergyWand {
         super();
         this.setUnlocalizedName("itemEnergyWandFire");
         this.setCreativeTab(CreativeTabsLoader.magicTab);
-        LanguageRegistry.addName(this, "Energy Wand (Fire)");
     }
 
     @Override

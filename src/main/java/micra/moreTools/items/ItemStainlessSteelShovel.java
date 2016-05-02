@@ -12,6 +12,5 @@ public class ItemStainlessSteelShovel extends ItemSpade {
         super(material);
         this.setUnlocalizedName("itemStainlessSteelShovel");
         this.setCreativeTab(CreativeTabsLoader.techTab);
-        LanguageRegistry.addName(this, "Stainless Steel Shovel");
     }
 }
